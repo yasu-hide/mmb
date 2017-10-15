@@ -99,7 +99,7 @@
 
 .field private mProgNameText:Landroid/widget/TextView;
 
-.field private mScanProgressBar:Lcom/sec/android/touchwiz/widget/TwProgressBar;
+.field private mScanProgressBar:Landroid/widget/ProgressBar;
 
 .field private mScanProgressDialog:Landroid/app/AlertDialog;
 
@@ -211,7 +211,7 @@
     iput-object v1, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressDialog:Landroid/app/AlertDialog;
 
     .line 155
-    iput-object v1, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressBar:Lcom/sec/android/touchwiz/widget/TwProgressBar;
+    iput-object v1, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressBar:Landroid/widget/ProgressBar;
 
     .line 156
     iput-object v1, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressTitle:Landroid/widget/TextView;
@@ -230,7 +230,7 @@
 .end method
 
 .method private StartScanProgessBar(Landroid/content/Context;)V
-    .locals 11
+    .locals 12
     .param p1, "ActContext"    # Landroid/content/Context;
 
     .prologue
@@ -329,9 +329,9 @@
 
     move-result-object v5
 
-    check-cast v5, Lcom/sec/android/touchwiz/widget/TwProgressBar;
+    check-cast v5, Landroid/widget/ProgressBar;
 
-    iput-object v5, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressBar:Lcom/sec/android/touchwiz/widget/TwProgressBar;
+    iput-object v5, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressBar:Landroid/widget/ProgressBar;
 
     .line 1629
     iget v5, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanType:I
@@ -352,25 +352,36 @@
     .line 1635
     :cond_0
     :goto_0
-    iget-object v5, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressBar:Lcom/sec/android/touchwiz/widget/TwProgressBar;
+
+    iget-object v5, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressBar:Landroid/widget/ProgressBar;
+
+    invoke-virtual {v5}, Landroid/widget/ProgressBar;->getResources()Landroid/content/res/Resources;
+
+    move-result-object v11
 
     const v6, 0x7f0200bf
 
-    invoke-virtual {v5, v6}, Lcom/sec/android/touchwiz/widget/TwProgressBar;->setProgressDrawable(I)V
+    invoke-virtual {v11, v6}, Landroid/content/res/Resources;->getDrawable(I)Landroid/graphics/drawable/Drawable;
+
+    move-result-object v6
+
+    invoke-virtual {v5, v6}, Landroid/widget/ProgressBar;->setProgressDrawable(Landroid/graphics/drawable/Drawable;)V
 
     .line 1636
-    iget-object v5, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressBar:Lcom/sec/android/touchwiz/widget/TwProgressBar;
-
     const v6, 0x7f0200c0
 
-    invoke-virtual {v5, v6}, Lcom/sec/android/touchwiz/widget/TwProgressBar;->setBackgroundDrawable(I)V
+    invoke-virtual {v11, v6}, Landroid/content/res/Resources;->getDrawable(I)Landroid/graphics/drawable/Drawable;
+
+    move-result-object v6
+
+    invoke-virtual {v5, v6}, Landroid/widget/ProgressBar;->setBackground(Landroid/graphics/drawable/Drawable;)V
 
     .line 1637
-    iget-object v5, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressBar:Lcom/sec/android/touchwiz/widget/TwProgressBar;
+    iget-object v5, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressBar:Landroid/widget/ProgressBar;
 
     const/16 v6, 0x64
 
-    invoke-virtual {v5, v6}, Lcom/sec/android/touchwiz/widget/TwProgressBar;->setMax(I)V
+    invoke-virtual {v5, v6}, Landroid/widget/ProgressBar;->setMax(I)V
 
     .line 1638
     invoke-direct {p0}, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->getScanProgessPercentage()I
@@ -406,9 +417,9 @@
     invoke-virtual {v5, v6}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
 
     .line 1640
-    iget-object v5, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressBar:Lcom/sec/android/touchwiz/widget/TwProgressBar;
+    iget-object v5, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressBar:Landroid/widget/ProgressBar;
 
-    invoke-virtual {v5, v3}, Lcom/sec/android/touchwiz/widget/TwProgressBar;->setProgress(I)V
+    invoke-virtual {v5, v3}, Landroid/widget/ProgressBar;->setProgress(I)V
 
     .line 1641
     invoke-virtual {v0, v2}, Landroid/app/AlertDialog$Builder;->setView(Landroid/view/View;)Landroid/app/AlertDialog$Builder;
@@ -535,7 +546,7 @@
 
     .prologue
     .line 1661
-    iget-object v1, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressBar:Lcom/sec/android/touchwiz/widget/TwProgressBar;
+    iget-object v1, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressBar:Landroid/widget/ProgressBar;
 
     if-eqz v1, :cond_0
 
@@ -546,9 +557,9 @@
 
     .line 1664
     .local v0, "scanPercentage":I
-    iget-object v1, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressBar:Lcom/sec/android/touchwiz/widget/TwProgressBar;
+    iget-object v1, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressBar:Landroid/widget/ProgressBar;
 
-    invoke-virtual {v1, v0}, Lcom/sec/android/touchwiz/widget/TwProgressBar;->setProgress(I)V
+    invoke-virtual {v1, v0}, Landroid/widget/ProgressBar;->setProgress(I)V
 
     .line 1665
     sget-object v1, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->TAG:Ljava/lang/String;
@@ -4801,14 +4812,14 @@
     invoke-direct {p0, v6}, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->StartScanProgessBar(Landroid/content/Context;)V
 
     .line 988
-    iget-object v6, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressBar:Lcom/sec/android/touchwiz/widget/TwProgressBar;
+    iget-object v6, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressBar:Landroid/widget/ProgressBar;
 
     if-eqz v6, :cond_5
 
     .line 989
-    iget-object v6, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressBar:Lcom/sec/android/touchwiz/widget/TwProgressBar;
+    iget-object v6, p0, Lcom/samsung/sec/mtv/ui/channelguide/MtvUiFragChannelList;->mScanProgressBar:Landroid/widget/ProgressBar;
 
-    invoke-virtual {v6, v10}, Lcom/sec/android/touchwiz/widget/TwProgressBar;->setProgress(I)V
+    invoke-virtual {v6, v10}, Landroid/widget/ProgressBar;->setProgress(I)V
 
     .line 990
     :cond_5

@@ -12,7 +12,7 @@
             <SurfaceView android:id="@id/surfaceview_live_hidden" android:layout_width="0.0px" android:layout_height="0.0px" />
             <ImageView android:id="@id/imgview_nosetchannel" android:visibility="gone" android:layout_width="150.0dip" android:layout_height="150.0dip" android:src="@drawable/mobile_stop_tv_icon_full" android:layout_x="245.0dip" android:layout_y="105.0dip" />
             <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
-                <TextView android:textSize="21.0dip" android:textColor="@touchwiz:color/tw_color001" android:id="@id/caption" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="110.0dip" android:layout_marginTop="282.0dip" android:layout_marginRight="110.0dip" android:maxLines="3" android:shadowColor="#ff000000" android:shadowDx="1.0" android:shadowDy="1.0" android:shadowRadius="3.0" />
+                <TextView android:textSize="21.0dip" android:textColor="#ffffffff" android:id="@id/caption" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="110.0dip" android:layout_marginTop="282.0dip" android:layout_marginRight="110.0dip" android:maxLines="3" android:shadowColor="#ff000000" android:shadowDx="1.0" android:shadowDy="1.0" android:shadowRadius="3.0" />
             </RelativeLayout>
             <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
                 <RelativeLayout android:id="@id/video_loading_animation_layout" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="120.0dip" android:layout_marginTop="130.0dip">
