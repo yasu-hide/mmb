@@ -482,19 +482,6 @@
     aget-object v5, v3, v0
 
     .line 42
-    .local v5, "volume":Landroid/os/storage/StorageVolume;
-    const-string v6, "sd"
-
-    invoke-virtual {v5}, Landroid/os/storage/StorageVolume;->getSubSystem()Ljava/lang/String;
-
-    move-result-object v7
-
-    invoke-virtual {v6, v7}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v6
-
-    if-eqz v6, :cond_3
-
     invoke-virtual {v5}, Landroid/os/storage/StorageVolume;->isRemovable()Z
 
     move-result v6
