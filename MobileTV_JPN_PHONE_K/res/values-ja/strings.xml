@@ -613,7 +613,7 @@
     <string name="launch_epg">Gガイド番組表を起動</string>
     <string name="launch_with_antenna">アンテナで起動</string>
     <string name="link">リンク</string>
-    <string name="link_expired">このTVﾘﾝｸは期限切れです</string>
+    <string name="link_expired">このTVリンクは期限切れです</string>
     <string name="loading">読み込み​中...</string>
     <string name="location">位置情報確認</string>
     <string name="low_battery">バッテリー残量不足</string>
@@ -672,7 +672,7 @@
     <string name="phone">本体</string>
     <string name="play_pause_button">再生または一時停止</string>
     <string name="please_input_between_0_62">1～24の番号を入力してください。</string>
-    <string name="popup_play_button">ﾎﾟｯﾌﾟｱｯﾌﾟ再生</string>
+    <string name="popup_play_button">ポップアップ再生</string>
     <string name="previous_button">前へ</string>
     <string name="processing">処理中...</string>
     <string name="program">プログラム名</string>
