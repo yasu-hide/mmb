@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/ChItemRelativeLayout" android:layout_width="fill_parent" android:layout_height="56.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/RelativeLayout01" android:background="@drawable/btn_chguide_tv_channel" android:layout_width="fill_parent" android:layout_height="56.0dip" android:layout_below="@id/test_ChNameText">
+        <TextView android:textSize="21.0dip" android:textColor="#fff5f5f5" android:gravity="center_horizontal" android:id="@id/test_ChNumText" android:layout_width="wrap_content" android:layout_height="27.0dip" android:layout_marginLeft="18.0dip" android:layout_marginTop="7.0dip" android:includeFontPadding="false" />
+        <TextView android:textSize="21.0dip" android:textColor="#fff5f5f5" android:gravity="center_horizontal" android:id="@id/test_ChNameText" android:layout_width="wrap_content" android:layout_height="27.0dip" android:layout_marginLeft="8.0dip" android:layout_marginTop="7.0dip" android:includeFontPadding="false" android:layout_toRightOf="@id/test_ChNumText" />
+        <TextView android:textSize="21.0dip" android:textColor="#fff5f5f5" android:gravity="center_horizontal" android:id="@id/test_ChMultiChIDText" android:layout_width="wrap_content" android:layout_height="27.0dip" android:layout_marginLeft="8.0dip" android:layout_marginTop="7.0dip" android:includeFontPadding="false" android:layout_toRightOf="@id/test_ChNameText" android:alpha="147.0" />
+    </RelativeLayout>
+</RelativeLayout>

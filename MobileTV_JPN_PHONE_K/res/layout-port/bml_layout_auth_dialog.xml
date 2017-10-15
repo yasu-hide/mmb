@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/scroolview_bml_auth_dialog" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/layout_bml_auth_dialog" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/id_dialog_message" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/bml_auth_ID" />
+        <EditText android:id="@id/id_dialog_edittext" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <TextView android:id="@id/password_dialog_message" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/bml_auth_passwd" />
+        <EditText android:id="@id/password_dialog_edittext" android:layout_width="fill_parent" android:layout_height="wrap_content" android:password="true" />
+        <CheckBox android:id="@id/checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/bml_auth_save" />
+    </LinearLayout>
+</ScrollView>

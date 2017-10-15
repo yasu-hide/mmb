@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/tw_list_item_bg_resource" android:clickable="true" android:layout_width="fill_parent" android:layout_height="56.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="22.0sp" android:textColor="#ffd7d7d7" android:id="@id/settings_broadcast_list_item_text_view" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="7.0dip" android:layout_marginTop="12.0dip" />
+    <CheckBox android:id="@id/settings_broadcast_list_item_check_box" android:visibility="invisible" android:layout_width="35.0dip" android:layout_height="35.0dip" android:layout_marginTop="12.0dip" android:layout_marginRight="7.0dip" android:layout_alignParentRight="true" />
+</RelativeLayout>

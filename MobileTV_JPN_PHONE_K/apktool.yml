@@ -1,0 +1,24 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: MobileTV_JPN_PHONE_K.apk
+compressionType: false
+doNotCompress:
+- arsc
+- qmg
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '19'
+  targetSdkVersion: '19'
+sharedLibrary: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  - 2
+  tag: null
+version: 2.3.0
+versionInfo:
+  versionCode: '219'
+  versionName: '1.0'

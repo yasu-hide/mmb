@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout android:orientation="vertical" android:id="@id/absolute_layout_live_parent" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/background_colour" android:background="#ff000000" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_y="510.0dip" />
+    <FrameLayout android:id="@id/live_player_root" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <AbsoluteLayout android:orientation="vertical" android:id="@id/imageviewerscreen" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView android:id="@id/image" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitCenter" android:layout_centerInParent="true" />
+        </AbsoluteLayout>
+        <AbsoluteLayout android:orientation="vertical" android:id="@id/videoviewerscreen" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView android:id="@id/image" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitCenter" android:layout_centerInParent="true" />
+            <com.samsung.sec.mtv.ui.common.MtvSurfaceView android:id="@id/surfaceview_live_player" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <SurfaceView android:id="@id/surfaceview_live_hidden" android:layout_width="0.0px" android:layout_height="0.0px" />
+            <ImageView android:id="@id/imgview_nosetchannel" android:visibility="gone" android:layout_width="150.0dip" android:layout_height="150.0dip" android:src="@drawable/mobile_stop_tv_icon_full" android:layout_x="245.0dip" android:layout_y="105.0dip" />
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <TextView android:textSize="21.0dip" android:textColor="@touchwiz:color/tw_color001" android:id="@id/caption" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="110.0dip" android:layout_marginTop="282.0dip" android:layout_marginRight="110.0dip" android:maxLines="3" android:shadowColor="#ff000000" android:shadowDx="1.0" android:shadowDy="1.0" android:shadowRadius="3.0" />
+            </RelativeLayout>
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <RelativeLayout android:id="@id/video_loading_animation_layout" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="120.0dip" android:layout_marginTop="130.0dip">
+                    <ImageView android:id="@id/video_loading_animation_image" android:background="@drawable/tw_widget_progressbar_holo_dark" android:layout_width="34.0dip" android:layout_height="34.0dip" android:layout_marginLeft="303.0dip" />
+                    <TextView android:textSize="19.0dip" android:typeface="sans" android:textColor="#ffffffff" android:gravity="center" android:id="@id/txtview_animation_string" android:layout_width="fill_parent" android:layout_height="24.0dip" android:layout_below="@id/video_loading_animation_image" />
+                </RelativeLayout>
+            </RelativeLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/layout_root_bml_srface" android:layout_width="0.0px" android:layout_height="0.0px" android:layout_x="0.0px" android:layout_y="0.0px">
+                <com.samsung.sec.mtv.ui.bml.MtvUiBmlSurfaceView android:gravity="center" android:id="@id/surfaceView_bml" android:visibility="visible" android:clickable="true" android:layout_width="0.0px" android:layout_height="0.0px" android:layout_x="0.0px" android:layout_y="0.0px" />
+            </LinearLayout>
+            <RelativeLayout android:id="@id/bml_loading" android:visibility="gone" android:layout_width="0.0px" android:layout_height="0.0px">
+                <RelativeLayout android:id="@id/anim_bml_loading" android:background="@drawable/tw_toast_frame_holo_dark" android:layout_width="0.0px" android:layout_height="0.0px" android:layout_marginLeft="0.0px" android:layout_marginTop="0.0px">
+                    <ImageView android:id="@id/image_bml_buffering" android:background="@anim/anim_bml_loading_progress" android:layout_width="0.0px" android:layout_height="0.0px" android:layout_marginLeft="0.0px" android:layout_marginTop="0.0px" />
+                    <TextView android:textSize="15.0dip" android:textColor="#ffd7d7d7" android:gravity="center" android:id="@id/bml_buffering_text" android:layout_width="205.0px" android:layout_height="fill_parent" android:text="@string/bml_receiving" android:layout_toRightOf="@id/image_bml_buffering" />
+                </RelativeLayout>
+            </RelativeLayout>
+        </AbsoluteLayout>
+        <RelativeLayout android:id="@id/videoholdLayout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="6.0dip">
+            <ImageView android:id="@id/lockImg" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="24.0dip" android:layout_marginRight="-40.0dip" android:src="@drawable/btn_lock_action" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_gravity="bottom|center|right" android:id="@id/Btn_Rotate_Layout" android:layout_width="34.0dip" android:layout_height="32.0dip" android:layout_marginRight="6.0dip" android:layout_marginBottom="60.0dip">
+            <ImageButton android:id="@id/Btn_Rotate" android:background="@drawable/btn_orientation_action" android:visibility="invisible" android:layout_width="34.0dip" android:layout_height="32.0dip" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_gravity="bottom|center|right" android:id="@id/Btn_Rotate_Layout2" android:layout_width="34.0dip" android:layout_height="32.0dip" android:layout_marginRight="6.0dip" android:layout_marginBottom="110.0dip">
+            <ImageButton android:id="@id/Btn_RotateFilePlayer" android:background="@drawable/btn_orientation_action" android:visibility="invisible" android:layout_width="34.0dip" android:layout_height="32.0dip" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_gravity="bottom|center|right" android:id="@id/off_timer_layout" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginRight="6.0dip" android:layout_marginBottom="260.0dip">
+            <ImageView android:id="@id/sleepTimer" android:background="@drawable/off_timer_setting" android:visibility="gone" android:layout_width="24.0dip" android:layout_height="24.0dip" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/root_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <RelativeLayout android:id="@id/volume_bar_parent" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+</AbsoluteLayout>

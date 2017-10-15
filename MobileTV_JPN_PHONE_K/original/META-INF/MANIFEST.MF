@@ -1,0 +1,1355 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-hdpi-v4/tw_action_bar_delete_normal.png
+SHA1-Digest: lw5rabLlmMIbKBPsH2qktYu/xSE=
+
+Name: res/drawable-hdpi-v4/video_player_v_player_rew.qmg
+SHA1-Digest: CpNRsmcKore+PhxcGmvPLak926Y=
+
+Name: res/drawable-hdpi-v4/tw_btn_default_pressed_holo_dark.9.png
+SHA1-Digest: KxPY+saGDKWbpqQr7Kptt8oyxt4=
+
+Name: res/layout-port/frag_status_bar.xml
+SHA1-Digest: U4kuI94ZA3MInB8KJtYpiFiZ6gM=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_schedulemanually_normal.
+ qmg
+SHA1-Digest: 2Gk3ENe95n+NLrTezy1mcDT9ITM=
+
+Name: res/drawable-hdpi-v4/mobile_tv_display01_focus.png
+SHA1-Digest: RObiZoNGglOMZRrz0RuI7I98od0=
+
+Name: res/drawable/mobile_tv_ch_rightbutton.xml
+SHA1-Digest: dEJFaAEC66zBh8gwFwHZ6xLESzM=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_reset_normal.png
+SHA1-Digest: 2ITPgQcBgTKMDeoHUZdhumnQpZI=
+
+Name: res/drawable-hdpi-v4/tw_btn_default_normal_holo_dark.9.png
+SHA1-Digest: Hj3donb/IdGz0Ig7JJ7n2dQF4+I=
+
+Name: res/drawable/option_menu_stop_recording.xml
+SHA1-Digest: 8yTEGoZNFFNgQ/DbuFg346E98e4=
+
+Name: res/drawable-hdpi-v4/channel_num_05_press.png
+SHA1-Digest: qYR85/Eap8ve1cbnKOc0ejTIzWE=
+
+Name: res/layout-port/frag_record.xml
+SHA1-Digest: Ccjo1vHk01QO/C6az78CxdrBSy0=
+
+Name: res/drawable-hdpi-v4/mobile_tv_icon_video.qmg
+SHA1-Digest: o45PVkwtntzDWSF5S+fXVmCfHqg=
+
+Name: res/layout-land/frag_image_controller.xml
+SHA1-Digest: PCnmIFeTcPdMgZI3EJs+n6Kd380=
+
+Name: res/drawable-hdpi-v4/video_player_control_ff_p.qmg
+SHA1-Digest: vBK4TmSe6MS7cLd9uF+j8L9zddI=
+
+Name: res/layout-land/frag_video_controller_minimode.xml
+SHA1-Digest: G/FPV6/krdqK+TCuaRdwALBwUmM=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_exit_holo_dark.png
+SHA1-Digest: dtobSsAIX+GR05LMn+ltHfP4AHA=
+
+Name: res/anim/anim_bml_loading_progress.xml
+SHA1-Digest: 4eS0/iLTDfa3psik+cpkdTdW9tA=
+
+Name: res/drawable-hdpi-v4/draw_btn_bml_keypad.qmg
+SHA1-Digest: 5mL86sFygrjl+ubnY2/xoiiBcxc=
+
+Name: res/layout/view_details_popup_layout.xml
+SHA1-Digest: AmQwM5QknilB2iK+a2iTbcX+kkI=
+
+Name: res/layout-port/frag_main_control_bar_minimode.xml
+SHA1-Digest: aiL1dccon1lMUjrW2sQULcPeMvE=
+
+Name: res/layout-port/bml_tvlink_list_item.xml
+SHA1-Digest: 7jHG57Nss6oAgyUX00x4pbea2pA=
+
+Name: res/layout-land/frag_mtv_bml_keypad.xml
+SHA1-Digest: oE/0P9Z/iJhwWaQoP7rImDhO3d8=
+
+Name: res/drawable-hdpi-v4/video_player_v_player_ff_focus.qmg
+SHA1-Digest: 9Apq/eyt+AfJ9J2zwqlvLZRpGdM=
+
+Name: res/layout-port/frag_video_controller_minimode.xml
+SHA1-Digest: /GSeQfDSyweL0m/5lkbNnjq+a94=
+
+Name: res/layout-port/act_mtv_ui_channelguide.xml
+SHA1-Digest: WWKU9IhkE1mh7VT0MI3AUTL8vyo=
+
+Name: res/drawable-hdpi-v4/checkbox_antenna_checked.qmg
+SHA1-Digest: o6rr1udNo48a91zLCYTuBQdWQHc=
+
+Name: res/drawable-hdpi-v4/mobile_tv_ch_left_button.qmg
+SHA1-Digest: lGCqeVJmPFhLjrEvJFd+5hDxpaE=
+
+Name: res/drawable-hdpi-v4/video_player_background_h.9.png
+SHA1-Digest: RmwoGP2hmNWJPB8/eOYL6ENcHMs=
+
+Name: res/drawable/option_menu_bml_tv_view.xml
+SHA1-Digest: 20TQJ+OAP+8iP12w79l0N/J87zI=
+
+Name: res/layout-land/frag_record.xml
+SHA1-Digest: pWqV8V66SDSyk2ZqcLKq4AGPERg=
+
+Name: res/drawable-hdpi-v4/channel_num_08_press.png
+SHA1-Digest: T8UeYgtMrWcobbHWrT70o+S+VkE=
+
+Name: res/layout-port/bml_layout_auth_dialog.xml
+SHA1-Digest: lK8iIIPMJf5BC/iMWcNHTkL+HsA=
+
+Name: res/drawable/option_menu_tv_live_capture.xml
+SHA1-Digest: /3ZEAxoWJDiqMxUVvfUssTPcQXQ=
+
+Name: res/drawable/btn_lock_action.xml
+SHA1-Digest: NCqK8Vo7ItKCkxTIVX90+ruEqd4=
+
+Name: res/drawable-hdpi-v4/tw_divider_popup_horizontal_holo_dark.9.png
+SHA1-Digest: BxIxV6heuXBBKqT7Zslmf8leSS4=
+
+Name: res/layout/fragment_configration.xml
+SHA1-Digest: +T8So9Spey7qGOLBr31gJ+yFZXE=
+
+Name: res/drawable-hdpi-v4/video_player_v_volume_press.qmg
+SHA1-Digest: omTpOKC/pi/0Qs/213gXSeQARbI=
+
+Name: res/drawable-hdpi-v4/mobiletv_player_bg.9.png
+SHA1-Digest: 4luTOH/vXC/cHFEensCyQpWd9PI=
+
+Name: res/drawable/video_player_seek_bar_thumb.xml
+SHA1-Digest: cg0tEZq0p8WSzqisEu4OuSTpO5k=
+
+Name: res/drawable/mobile_tv_view_pausebutton_land.xml
+SHA1-Digest: 9hyv/R1PXTzoV8Slmg3mpIaSxVg=
+
+Name: res/drawable-hdpi-v4/dmb_volume_bar.9.png
+SHA1-Digest: TjDpH/FXNtK8BMHo1SoKHhUwADw=
+
+Name: res/layout-port/frag_mtv_tvfiles_list.xml
+SHA1-Digest: i2C6uKxsGtzIFobvrLlWX+djJxk=
+
+Name: res/drawable-hdpi-v4/stat_sys_dmb_signal_04.png
+SHA1-Digest: HO8jtolKLEPjQHABx51y0ianNIY=
+
+Name: res/layout-port/frag_mtv_bml_keypad_caption.xml
+SHA1-Digest: L4VFGorMZBbjD1dn+/HnD2E0+lc=
+
+Name: res/drawable/btn_chguide_tv_channel.xml
+SHA1-Digest: 7jmvCB5yPL5a8LDw2HivAF8WAH4=
+
+Name: res/layout-land/activity_station_data_item.xml
+SHA1-Digest: Rk2Bn+72/Hu6QQZag3sBt+e8GYU=
+
+Name: res/drawable-hdpi-v4/mtv_notificaion_close_press.qmg
+SHA1-Digest: vjaNWkZkE5XSYrMXz5nILt41o4w=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_chinput_normal.qmg
+SHA1-Digest: Bw47uU+EuiDKZXgUfcNVD8wnXt4=
+
+Name: res/drawable-hdpi-v4/channel_num_08.qmg
+SHA1-Digest: Vy/w8xAiGCambMhMWvGBg3UeJew=
+
+Name: res/drawable-hdpi-v4/mobile_tv_ch_right_button_press.qmg
+SHA1-Digest: 854wZOvi0MuSekKOIzkrWjOtJVI=
+
+Name: res/drawable-hdpi-v4/video_player_v_volume_focus.png
+SHA1-Digest: /6jzT7evemLLI1wiKeYNYql3Ggc=
+
+Name: res/drawable-hdpi-v4/draw_btn_bml_down_focus.png
+SHA1-Digest: 4STAcjshPb3UhWlB+sC0sR2rXnA=
+
+Name: res/drawable-hdpi-v4/draw_btn_bml_down.png
+SHA1-Digest: OyBfoRJP4SOx1uwtj71TqV9smqM=
+
+Name: res/layout/act_mtv_ui_testmode_scanresult_list.xml
+SHA1-Digest: +Bi6TY+UTP3Yk7QTjXuVUa5QkL8=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_check_holo_dark.png
+SHA1-Digest: ORtNOXLc7J5EKtJ+H5yPtwXn4IA=
+
+Name: res/drawable-hdpi-v4/tw_btn_default_disabled_holo_dark.9.png
+SHA1-Digest: h+YsIEDqonyIJDhAk2/izv1VJjg=
+
+Name: res/layout-land/frag_mtv_bml_basic.xml
+SHA1-Digest: ST9O0dNT7M6RUfMZK3lA9+BH0M8=
+
+Name: res/drawable-hdpi-v4/stat_sys_dmb_signal_02.png
+SHA1-Digest: 6UgXPneyx4aSS1ElHFFKaU58+fA=
+
+Name: res/drawable-hdpi-v4/channel_num_06_press.png
+SHA1-Digest: qImalZAXYpqw0tj6PkHs/vBcOZ0=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_chschedule_normal.png
+SHA1-Digest: R/gMrGEnmeCxO4cU8Jl0nzuu4qk=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_cancel_holo_dark.qmg
+SHA1-Digest: 8e6JgD5wtl7ZJceZGvaGoDG+6qg=
+
+Name: res/drawable-hdpi-v4/mainmenu_icon_mobiletv.qmg
+SHA1-Digest: T58h5D53QiL/lpAIKaeGdn9a7Qw=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_epg_normal.qmg
+SHA1-Digest: oO0VAPb5skv099zHeFGOCKBFypQ=
+
+Name: res/drawable-hdpi-v4/video_player_v_player_ff.qmg
+SHA1-Digest: wz6Wbm1rKeW0TKDIB/38D38W+lM=
+
+Name: res/drawable-hdpi-v4/tw_buttonbarbutton_selector_selected_holo_d
+ ark.9.png
+SHA1-Digest: EDWWHocfIJvxTuIgdKXu/xF0sZ8=
+
+Name: res/layout-land/ctrl_progress_popup.xml
+SHA1-Digest: DqzPH5jNXFS2DH9L9vRVwlNvE4Y=
+
+Name: res/layout-port/frag_mtv_bml_basic_caption.xml
+SHA1-Digest: 2+BeKvj2I4DH9OT9acTsS/8TRV8=
+
+Name: res/layout/mini_tv_main.xml
+SHA1-Digest: LhLI7LuvOAAhtSiZuci8rAfbSQU=
+
+Name: res/drawable/white_bg.xml
+SHA1-Digest: TKcCKmf/GXnpEuW8bcuyeXHC9iw=
+
+Name: res/drawable-hdpi-v4/bml_anim_loading_05.png
+SHA1-Digest: Zb7tnabq0c6MXATvFXWhQjY39Jw=
+
+Name: res/drawable/mobile_tv_view_playbutton_land.xml
+SHA1-Digest: BI+RrZ0gCrFmx+KF0wpDKx+dmMo=
+
+Name: res/drawable-hdpi-v4/mtv_notificaion_close.png
+SHA1-Digest: Ckjwc+S0xAcb3+6liU9h0vaOY+s=
+
+Name: res/layout/act_mtv_ui_sview_cover.xml
+SHA1-Digest: cij9SGXR3utqM81MS8xinYHwCZo=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_schedulemanually_disable
+ .png
+SHA1-Digest: WAi6pTWnL2sh4nMxSrJ8K2qNWyw=
+
+Name: res/drawable-hdpi-v4/bml_anim_loading_06.png
+SHA1-Digest: 38O0DP8jD98l4rRDFy+ER9qTuWk=
+
+Name: res/drawable/btn_bml_down_action.xml
+SHA1-Digest: gVbzkEbgjA/XBSvBUNne2zZxfJU=
+
+Name: res/drawable-hdpi-v4/mobile_tv_icon_web_url.png
+SHA1-Digest: /8t1j/cN6f9W0NN/5LcYVJfaVDM=
+
+Name: res/drawable-hdpi-v4/mobile_tv_onair.png
+SHA1-Digest: NcmCC2+tuIYOtaLPgCVMtuslkWU=
+
+Name: res/layout-port/frag_mtv_channelguide_chlist.xml
+SHA1-Digest: oeXIG5rEgAYJVXmNxwTcAJxCy7k=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_rec_disable.png
+SHA1-Digest: RB7fhYTKFcvTRZ2nPAg7hFHDLPM=
+
+Name: res/layout-land/frag_video_controller_default.xml
+SHA1-Digest: vNpyprMKNbS+9VDmeCSQRr6ySzo=
+
+Name: res/layout-land/frag_main_control_bar_minimode.xml
+SHA1-Digest: Bq3Y4uyjjH6gOZeYl/WcwKQI8lU=
+
+Name: res/drawable-hdpi-v4/progress_bar.9.png
+SHA1-Digest: 1h4TsBDZZquSHW68W8otL21y+wc=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_epg_disable.png
+SHA1-Digest: am2yuISTnnGI2k4ff6Icl5nSWKg=
+
+Name: res/layout/settings_broadcast_list_item.xml
+SHA1-Digest: N/ZjcqZNsqLrb1j5VYMo2MXISPo=
+
+Name: res/drawable/mobile_tv_view_rightbutton_port.xml
+SHA1-Digest: /c+weQVoPQXPoTsPZqiHrS2jfac=
+
+Name: res/drawable-hdpi-v4/ic_menu_moreoverflow_disable.png
+SHA1-Digest: oEyUZS6Ib1STtUidZeugiWe3YSc=
+
+Name: res/drawable/tw_textfield_bg.xml
+SHA1-Digest: pClPflscRXrmuvC7rTN1WCvSAzw=
+
+Name: res/drawable-hdpi-v4/video_player_v_volmute.qmg
+SHA1-Digest: VRAuDT92zTgY3QWmkTfy7kSTumI=
+
+Name: res/drawable-hdpi-v4/tw_progress_bg_holo.9.png
+SHA1-Digest: H3fn4IpaFYa6xySMGgsDRFcQI4c=
+
+Name: res/layout-port/bml_layout_input_dialog.xml
+SHA1-Digest: jJYHfkMYIMH2GzWnZTqY8UDspBk=
+
+Name: res/drawable/mtv_tw_progress_horizontal.xml
+SHA1-Digest: KsdWOllea1UGmDD2CKzM/AxUK3I=
+
+Name: res/layout-land/activity_station_data.xml
+SHA1-Digest: epWaX9qsTxuavBbfw4BsldOFIlM=
+
+Name: res/drawable-hdpi-v4/mobile_tv_icon_recorded.png
+SHA1-Digest: IB9ivXGv7XhiMJ3xvFqEiLAkYqI=
+
+Name: res/drawable-hdpi-v4/dmb_channel_arrow_right_h_press.png
+SHA1-Digest: 6Nn/g1qUFooXWu1tHuR92mxr/kU=
+
+Name: res/drawable-hdpi-v4/channel_num_00_press.png
+SHA1-Digest: cWY56qWoDIthsMRoJigwFv4ABzE=
+
+Name: res/drawable-hdpi-v4/video_player_control_rew_p.qmg
+SHA1-Digest: brm6dlub/o6W+RHqWSyOJ3BWSgY=
+
+Name: res/layout-port/frag_image_controller.xml
+SHA1-Digest: 1lHoxKdCOZ7OOSKyJHpunsAnrbQ=
+
+Name: res/drawable-hdpi-v4/mobile_tv_display01.qmg
+SHA1-Digest: fbAcXM+KQXEV9k8TEF15WqDhM7M=
+
+Name: res/drawable/btn_ch_up_action_port.xml
+SHA1-Digest: KA8qxtf5piI9XG4B9j5KKrDpRZE=
+
+Name: res/layout/settings_menu_item.xml
+SHA1-Digest: 8mKNtxlB6Tr6zWnfOWEcAwqa6mI=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_stop_disable.png
+SHA1-Digest: FtACIUoeROqun2qE33NgD3L8qyc=
+
+Name: res/drawable/mobile_tv_ch_leftbutton.xml
+SHA1-Digest: /OdrdRSHFL2UahVS38Fz0VAPmBw=
+
+Name: res/drawable/mobile_tv_view_volumemutebutton_land.xml
+SHA1-Digest: JXz0Qd4bKldh1Xk1OEK+KU8uakA=
+
+Name: res/drawable-hdpi-v4/bml_anim_loading_01.png
+SHA1-Digest: zwUC38WobOsoM5Ay01FpmCII3wo=
+
+Name: res/menu/action_bar_delete_menu.xml
+SHA1-Digest: E/iUT5+Z97ycT7+n4VKLsxQLIqE=
+
+Name: res/drawable-hdpi-v4/ic_dialog_alert.png
+SHA1-Digest: qFBx+8oMS3O576t8pw/ZnSXn3Wc=
+
+Name: res/drawable-hdpi-v4/video_view_lock_p.qmg
+SHA1-Digest: BPpxuI1nTvkRvX9+l9qJgMrl4II=
+
+Name: res/drawable-hdpi-v4/channel_num_02_press.png
+SHA1-Digest: R9ZMkxm6jP6ZqDZhwvthvN5kJRw=
+
+Name: res/drawable-hdpi-v4/video_player_h_volume_focus.png
+SHA1-Digest: YcO3QmtitRqKenDGLq3nDcAeBbI=
+
+Name: res/drawable-hdpi-v4/tw_background_dark.png
+SHA1-Digest: VUk/ST97+1cu8LQ4eXkCydq9w98=
+
+Name: res/drawable-hdpi-v4/dmb_channel_volume.qmg
+SHA1-Digest: ShkguhDIwWcXLv00jPkpqG+Ta70=
+
+Name: res/drawable-hdpi-v4/video_player_progressive_bar.9.png
+SHA1-Digest: C0PG9OhG6+Kop33icWlrnSQcXco=
+
+Name: res/drawable-hdpi-v4/off_timer_setting.qmg
+SHA1-Digest: h2Wzww727vLNBlfHbXG2vycEfKk=
+
+Name: res/layout/frag_record_sview_cover.xml
+SHA1-Digest: 9IrAmSas0cV1rukjKp/aA7xY0HE=
+
+Name: res/drawable-hdpi-v4/channel_num_02.png
+SHA1-Digest: y7gnzCKghwjb9UkfuhY76tftnlU=
+
+Name: res/drawable/btn_app_in_app_action_port.xml
+SHA1-Digest: MvSLGnsxNrqtBBrGz+GLr2THRnw=
+
+Name: res/layout-land/frag_mtv_tvfiles_list.xml
+SHA1-Digest: i2C6uKxsGtzIFobvrLlWX+djJxk=
+
+Name: res/drawable-hdpi-v4/video_player_control_play_p.qmg
+SHA1-Digest: /UlwTHp8leKT65dzVMLpytBWZw4=
+
+Name: res/drawable-hdpi-v4/stat_sys_signal_null.png
+SHA1-Digest: RrBiA7N+uGsHkJJQJPKRjcmXOMs=
+
+Name: res/drawable-hdpi-v4/video_player_h_volmute_f.png
+SHA1-Digest: rZitJgaq1nFZ6fvJewDu0ZqsvBU=
+
+Name: res/drawable-hdpi-v4/channel_num_05.png
+SHA1-Digest: mewWNNdA+mMre9aEhciGC5Rhazs=
+
+Name: res/drawable-hdpi-v4/tw_toast_frame_holo_light.9.png
+SHA1-Digest: k4a5nS5iYegE+o+M1lPZSqPHPLo=
+
+Name: res/layout-port/frag_mtv_bml_numeric.xml
+SHA1-Digest: g6oae13RfU87hw38WQQ4gXewx4Q=
+
+Name: res/layout/act_settings_broadcast.xml
+SHA1-Digest: eRJEPTm6WD0PS0+x2TcCyuDBniU=
+
+Name: res/drawable-hdpi-v4/video_player_control_pause_p.qmg
+SHA1-Digest: Qv242Q1XJmQGrsWdLooQzErkA3c=
+
+Name: res/drawable/option_menu_channel_schedule.xml
+SHA1-Digest: GQ4eiWjqM1WKyNe6BiMwB97FF5E=
+
+Name: res/drawable-hdpi-v4/dmb_channel_rotate_focus.qmg
+SHA1-Digest: HApE6rfUrQDHcY9WxLDQlCBZdho=
+
+Name: res/drawable/btn_ch_number3_action.xml
+SHA1-Digest: MxGhORF6S7WmJyLfuSP/AOk5q5U=
+
+Name: res/drawable-hdpi-v4/mobile_tv_ch_right_button.qmg
+SHA1-Digest: PwiYk2P4+fMHLOcqCUEdNVFtnds=
+
+Name: res/drawable/btn_ch_number6_action.xml
+SHA1-Digest: bpnfLyOtJOxlYmxggnjZ83JtUD0=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_freememory_disable.png
+SHA1-Digest: Dr3+M5v93yMEw7qSoIdtiSTVfpE=
+
+Name: res/drawable-hdpi-v4/tw_textfield_activated_holo_dark.9.png
+SHA1-Digest: 6/lcDPDu46b1TI7uVlOMUp4NFug=
+
+Name: res/layout-land/act_mtv_ui_channelguide.xml
+SHA1-Digest: HfXSn8/2zq/UbB9qA+XxRi1qwBk=
+
+Name: res/drawable-hdpi-v4/mobiele_tv_speed_bg.png
+SHA1-Digest: dKdOB2Yi0rvDHxfIyJnGFyrhutY=
+
+Name: res/drawable-hdpi-v4/draw_btn_bml_up.png
+SHA1-Digest: mL2tv0eP/U35KI1NYOdYrPsA5Ro=
+
+Name: res/drawable-hdpi-v4/video_view_lock_n.qmg
+SHA1-Digest: nnY0icYCZe1Vv+EJu/JXS/wniJU=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_update_all_holo_dark.qmg
+SHA1-Digest: ecvf6nXbbqjom6zH4P0srPKjoUM=
+
+Name: res/layout-port/act_mtv_ui_remove.xml
+SHA1-Digest: AdrQFLCjqeb9FB6VGIbNi0uAkj4=
+
+Name: res/drawable-hdpi-v4/checkbox_antenna_unchecked.qmg
+SHA1-Digest: mSnabtPszAHxGb4wGgZbUrYqcaM=
+
+Name: res/drawable-hdpi-v4/tw_buttonbarbutton_selector_focused_holo_da
+ rk.9.png
+SHA1-Digest: yZceLjg/8R8kWoq1vgMgRXPYng4=
+
+Name: res/drawable/mobile_tv_view_volumebutton_land.xml
+SHA1-Digest: 3uFuwjxifbrhml4VcbEt6YaiJSc=
+
+Name: res/drawable-hdpi-v4/video_player_progressive_bg.9.png
+SHA1-Digest: ptkMjADF8vzGdIJRz8RUNlobQCs=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_stop_normal.png
+SHA1-Digest: VC16zIya7rsc/SqOMP1S+wVTWaU=
+
+Name: res/drawable/btn_ch_number1_action.xml
+SHA1-Digest: tjX5g9korHMt6EPAcYM8jD00j7U=
+
+Name: res/drawable-hdpi-v4/video_player_h_volume.qmg
+SHA1-Digest: r8h3gUtxYgBNPQl3NNnqI+CU+UM=
+
+Name: AndroidManifest.xml
+SHA1-Digest: qCTIOvIZS2Dxu7uWN3r2cfUh+l4=
+
+Name: res/drawable-hdpi-v4/tw_widget_progressbar_holo_dark.qmg
+SHA1-Digest: Y8DsF1XuQ3rw1zS1/F+HEyPCkVk=
+
+Name: res/drawable-hdpi-v4/common_top_bg.9.png
+SHA1-Digest: bNWWMC8NyvhiYD4ctMj3EK+vFlc=
+
+Name: res/drawable/btn_ctrmain_action_portrait.xml
+SHA1-Digest: Ys9smvaPF5EYwF7Gjmdu35zsxk4=
+
+Name: res/drawable-hdpi-v4/tw_buttonbarbutton_selector_default_dark.9.
+ png
+SHA1-Digest: CpDFv7xbiggdbbWeiUQ3BZ2lqko=
+
+Name: res/drawable-hdpi-v4/bml_anim_loading_04.png
+SHA1-Digest: KnMVTRhwQcoUx+0bgvOULHAX0Ds=
+
+Name: res/layout-land/item_testmode_channel.xml
+SHA1-Digest: Z+tLQNIxBahltyhU1PJtb2SmTpQ=
+
+Name: res/layout-land/bml_layout_auth_dialog.xml
+SHA1-Digest: lK8iIIPMJf5BC/iMWcNHTkL+HsA=
+
+Name: res/drawable/btn_dropdown_ctrl.xml
+SHA1-Digest: AQ/nZ4FD0e+kdUl3qGDm00nqwM4=
+
+Name: res/drawable-hdpi-v4/winset_softkey_bg01.9.png
+SHA1-Digest: iI0sDc8Ml4O3fCP2aCK4TWCSEUA=
+
+Name: res/drawable-hdpi-v4/dmb_volume_popup_bg.9.png
+SHA1-Digest: tlzmyRL3IwzBYUOLjf1Vist0xnQ=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_tv_disable.png
+SHA1-Digest: +kKM6GDNxJ4PPJ2HEvtTE19bzsw=
+
+Name: res/layout/reservation_deatil_popup_list.xml
+SHA1-Digest: 2usNewdORaRSV4bxpXI/i0+A6NA=
+
+Name: classes.dex
+SHA1-Digest: kAwgqKB3ByK7ivM01LoKszvywSg=
+
+Name: res/drawable-hdpi-v4/channel_btn_icon_up.png
+SHA1-Digest: ZPyxwAdfmTNpYFTHdmhoxQ4c6M4=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_cancel_disabled_holo_dar
+ k.png
+SHA1-Digest: IGtGq09aba/7a2/peL1SowfAkVY=
+
+Name: res/layout/view_mem_info.xml
+SHA1-Digest: Riepi0XBsrkSxsde9+g99/jfleQ=
+
+Name: res/drawable/btn_ch_number5_action.xml
+SHA1-Digest: 8Ud825Q4qChF4+sOIK3n4gA9sGM=
+
+Name: res/drawable-hdpi-v4/stat_sys_dmb_signal_01.png
+SHA1-Digest: rvDMRelZ06Cl/6V5g5aZZ1SjTZ0=
+
+Name: res/drawable-hdpi-v4/channel_num_09.qmg
+SHA1-Digest: /hdyVjA5Zas91zUw+pWsLnFptr4=
+
+Name: res/drawable-hdpi-v4/video_player_v_appinapp_dim.qmg
+SHA1-Digest: YN0Pf/DDcYgTCgcI222SZDRSsyk=
+
+Name: res/drawable-hdpi-v4/action_bar_tab_bg.9.png
+SHA1-Digest: uTpyYN4/txNgAxqg1ooye0yThAc=
+
+Name: res/drawable-hdpi-v4/video_player_v_player_play.qmg
+SHA1-Digest: hwUxyK7uQ2oP2vJDwP9vtfwaNqA=
+
+Name: res/drawable-hdpi-v4/mobile_tv_display03_press.png
+SHA1-Digest: U23TYudqwvydsTP+nwdVgc8XTpo=
+
+Name: res/drawable/btn_ch_number8_action.xml
+SHA1-Digest: PL4USR+mj+Sq/h3d5/w8mC9AiS8=
+
+Name: res/drawable/btn_ch_ok_action.xml
+SHA1-Digest: ll9uZxTDdIxIEmUQAh4Zi2AVZSY=
+
+Name: res/drawable-hdpi-v4/video_view_lock_f.png
+SHA1-Digest: 0P8yBMv4wqtNUiHrtJaXHYGT4Mo=
+
+Name: res/drawable-hdpi-v4/tw_btn_default_focused_holo_dark.9.png
+SHA1-Digest: 5LYDSCXiHeDDCZhnq6a/Nj+Ptrk=
+
+Name: res/drawable-hdpi-v4/tdmb_channel_outline.png
+SHA1-Digest: CJmENiOyHSkYqgvGezcXpxC8mSo=
+
+Name: res/drawable/btn_menu_action.xml
+SHA1-Digest: VVvIDXJuXP+ASqL1DeYkXzJvBfw=
+
+Name: res/drawable-hdpi-v4/mobile_tv_icon_document_url.png
+SHA1-Digest: N1DKm31cBrfTcAzOLZRkX3MgtF4=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_delete_disable.png
+SHA1-Digest: p8GEeVYD90L8yC+M4BBy2fZvghE=
+
+Name: res/drawable-hdpi-v4/ic_menu_moreoverflow_normal.png
+SHA1-Digest: G0Nmv9l+6tatGaN1/sMJvDXfhOI=
+
+Name: res/drawable-hdpi-v4/tw_textfield_default_holo_dark.9.png
+SHA1-Digest: JHc8JIMjPTePUB9uPbvYGL5UPCQ=
+
+Name: res/anim/ani_rotating.xml
+SHA1-Digest: AE85MKMwb7DWr9jckkmjsO6nvbY=
+
+Name: res/drawable-hdpi-v4/draw_btn_bml_down_press.png
+SHA1-Digest: 4STAcjshPb3UhWlB+sC0sR2rXnA=
+
+Name: res/drawable-hdpi-v4/video_player_h_volume_dim.qmg
+SHA1-Digest: jCSz74lTyc+1MEKZn8qyIVEvCwE=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_tvfile_holo_dark.png
+SHA1-Digest: PClyYoAK9LUo5FJM35jvcgRdwj4=
+
+Name: res/drawable-hdpi-v4/channel_num_back.png
+SHA1-Digest: yb8jQf9Pvvd4nBoCvSVdf5XBTvg=
+
+Name: res/drawable-hdpi-v4/dmb_channel_arrow_right_h.qmg
+SHA1-Digest: KEZ2MyPZfZJKrhhDQAYl1I8U+Kw=
+
+Name: res/drawable-hdpi-v4/video_player_v_volmute_press.qmg
+SHA1-Digest: SkzZOB2dXmfDYKPZRJLUWTy3RgA=
+
+Name: res/layout/mtv_notification_template_base.xml
+SHA1-Digest: uA9VNmSGA4B158DEsa7iLkFHL7s=
+
+Name: res/drawable-hdpi-v4/stat_sys_dmb_signal_03.png
+SHA1-Digest: lDIJKMsr6yXZhS3IF4Ts2ifRpqo=
+
+Name: res/drawable-hdpi-v4/bml_anim_loading_07.png
+SHA1-Digest: j8Ju6EWk1sUIkQMBhkFsVCsusyw=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_bml_disable.qmg
+SHA1-Digest: TJMW5jrjwIJfos1prQIjb7H8XWo=
+
+Name: res/layout-port/frag_mtv_bml_keypad.xml
+SHA1-Digest: Q29ugAneLWRd6Nh89cHkbDV4Uko=
+
+Name: res/drawable-hdpi-v4/tw_spinner_disabled_holo_dark.9.png
+SHA1-Digest: L6lQFRbB+kMeD4tPTlIkdnKAoh4=
+
+Name: res/drawable-hdpi-v4/video_player_h_volmute_p.qmg
+SHA1-Digest: ggIBKaq/iA4YfsP6JV83w3wmmO4=
+
+Name: res/drawable-hdpi-v4/mobile_tv_icon_watched.png
+SHA1-Digest: SWyN1um83GS2dVFpfGQp38v17L4=
+
+Name: res/drawable/btn_ch_number2_action.xml
+SHA1-Digest: vdN8jUdrFSD30+pzJ+GV5fdc5+4=
+
+Name: res/drawable/btn_ch_number7_action.xml
+SHA1-Digest: 6YfrGQf+zJMBPOuhL9pHRGWFt38=
+
+Name: res/drawable-hdpi-v4/channel_num_06.qmg
+SHA1-Digest: I0EDU35V/NGz+CqeN8aS99ClRpA=
+
+Name: res/layout-land/frag_mtv_channelguide_chlist.xml
+SHA1-Digest: BWIfzrovYPPmPe69w4bolWoqB2M=
+
+Name: res/drawable-hdpi-v4/dmb_channel_app_in_app.png
+SHA1-Digest: tGPvWPZQJim8ex9aqnojC5HUtNA=
+
+Name: res/layout-port/frag_mtv_reservation_list.xml
+SHA1-Digest: JN0IzANlKlE5OI74QkAX+qCYYA4=
+
+Name: res/layout-port/frag_main_control_bar_default.xml
+SHA1-Digest: yCt1ea55ngmkBlGMT3IITl/NgJQ=
+
+Name: res/drawable-hdpi-v4/video_player_v_volume.png
+SHA1-Digest: XIpm3BsPsg3SeHZ4ZRSKeyxEGhQ=
+
+Name: res/layout-port/frag_video_controller_default.xml
+SHA1-Digest: j2o3VocP+2fQioRbBJJbqsEbRDg=
+
+Name: res/drawable/channel_input_text_field_bg.xml
+SHA1-Digest: +NRaNWw/SrP7wCWuWMcKg1BXaZg=
+
+Name: res/drawable-hdpi-v4/bml_anim_loading_08.png
+SHA1-Digest: T/8A/T+BuoRLaa+nAfr7ODtTCAE=
+
+Name: res/drawable/option_menu_change_area.xml
+SHA1-Digest: 83BHHXS1kgduKIqmTClFgx2XQRk=
+
+Name: res/layout/frag_volume_control_bar_sview_cover.xml
+SHA1-Digest: 1uRXp1Tm/A21nkwclBnHtvx5Q4c=
+
+Name: res/drawable-hdpi-v4/mobile_stop_tv_preview.png
+SHA1-Digest: UHA18jBeBVq3ZXZmNWcnYkZ/t7Q=
+
+Name: res/layout-land/tv_file_item.xml
+SHA1-Digest: u3Owmp0gI9NgTfU0CAkyh5RNMRo=
+
+Name: res/drawable-hdpi-v4/dmb_channel_rotate_press.qmg
+SHA1-Digest: GLsxLx3gJvTQ+a8v/5+muHw4EW0=
+
+Name: res/layout-land/act_mtv_ui_remove.xml
+SHA1-Digest: fbKBpEYcJki45UKbxBN2utF96uQ=
+
+Name: res/drawable/select_all_selector.xml
+SHA1-Digest: 7oMo/XwYugpwVKSz/8We2HLCzYA=
+
+Name: res/layout/frag_program_info.xml
+SHA1-Digest: DBIBhruJcnSPvXxmksKaK9aMnBI=
+
+Name: res/layout-land/act_mtv_ui_popup.xml
+SHA1-Digest: mi9x2rhBHGHbV4hj4zF/bBtJMXo=
+
+Name: res/layout-land/channel_schedule_item.xml
+SHA1-Digest: ttaxQKFTbgKvTr6lD41jOgEULAM=
+
+Name: res/drawable-hdpi-v4/tw_scrubber_control_pressed_holo.png
+SHA1-Digest: MVp+4NCn8ayoPwrHbv0joi1fizQ=
+
+Name: res/drawable/mtv_notification_exit.xml
+SHA1-Digest: y2LiJLTQjuFmqilDawSPw1QaY+0=
+
+Name: res/drawable-hdpi-v4/channel_num_ok.png
+SHA1-Digest: 60ceM9093vFcxxKkixp4zc1BgRE=
+
+Name: res/drawable/option_menu_tv_files.xml
+SHA1-Digest: rsb2RqHb42JMbsdM7wwVwaF7g5Y=
+
+Name: res/drawable/option_menu_tv_live_record.xml
+SHA1-Digest: I2UBMZOrNldRa/l4XZkOaoaOc8g=
+
+Name: res/layout-land/frag_mtv_bml_basic_caption.xml
+SHA1-Digest: OjOlbGKeFqHtOEdWRFTrIePDsAo=
+
+Name: res/drawable-hdpi-v4/channel_btn_bg.9.png
+SHA1-Digest: UiW5a/QNS65/ubpLuZR0vrIXDFA=
+
+Name: res/drawable-hdpi-v4/tw_list_pressed_dark.9.png
+SHA1-Digest: EFYdhX6Ju22d6UqCT2eAZnDWyh8=
+
+Name: res/drawable/tw_list_item_bg_resource.xml
+SHA1-Digest: dQXbbjEySI2fVmkvLnv5xPRMaz4=
+
+Name: res/layout-port/act_mtv_ui_popup.xml
+SHA1-Digest: mi9x2rhBHGHbV4hj4zF/bBtJMXo=
+
+Name: res/drawable/option_menu_bml_full_view.xml
+SHA1-Digest: +163s8lokkGEuqDZEeQ1L3gYjmU=
+
+Name: res/drawable/mobile_tv_view_rightbutton_land.xml
+SHA1-Digest: WCAMuSqPnjDY1JVaIGzVVb7K5EY=
+
+Name: res/drawable/btn_ch_number4_action.xml
+SHA1-Digest: wIcBzVruBAj2q7TcJ65fEohB0kg=
+
+Name: res/drawable-hdpi-v4/tw_buttonbarbutton_selector_pressed_dark.9.
+ png
+SHA1-Digest: nEg3hXOSCNKBMY2VNdQmVrO3bjo=
+
+Name: res/drawable-hdpi-v4/clear_cover_player_background.9.png
+SHA1-Digest: q7+n1EqroINoqeUB4+aRwvagTUQ=
+
+Name: res/drawable-hdpi-v4/tw_textfield_pressed_holo_dark.9.png
+SHA1-Digest: QF7+pwrMUBMpWS5CVDEkEeKZVMg=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_setting_normal.png
+SHA1-Digest: i1A+j+FV/KfRdbkQbeTYNYTr2PM=
+
+Name: res/drawable/option_menu_channel_input.xml
+SHA1-Digest: hZaPRQA7HE1lCyuZWztrXiNzpEg=
+
+Name: res/layout-land/frag_volume_control_bar.xml
+SHA1-Digest: Xt/4MJww4m/3OACbYk9RPCnUHTs=
+
+Name: res/layout-land/frag_status_bar.xml
+SHA1-Digest: /FEqIvVXN4b7HrfVTp65t4rNUW8=
+
+Name: res/drawable-hdpi-v4/indicator_51ch.qmg
+SHA1-Digest: u2TDy2BHTFn+AI0pVhaiKhI7h40=
+
+Name: res/drawable/option_menu_on_reset.xml
+SHA1-Digest: NR1rmQkACYS1icErBslpWrPRbOc=
+
+Name: res/drawable/volume_popup_seek_bar_thumb.xml
+SHA1-Digest: cddubq2+nsxlpO7cASRuO4gdJjE=
+
+Name: res/drawable-hdpi-v4/dark_header.9.png
+SHA1-Digest: yuk7XgOeI4G5dICdg8zyLkI7Uxk=
+
+Name: res/layout/act_mtv_ui_testmode_horizontal.xml
+SHA1-Digest: lRqVJ4zgPRNKY2XHf7+RVCPgIRs=
+
+Name: res/drawable-hdpi-v4/video_player_v_player_ff_press.qmg
+SHA1-Digest: 4RKkIhJl76d7Q1fKdtYWvyfkwJE=
+
+Name: res/drawable-hdpi-v4/mobile_tv_rec.qmg
+SHA1-Digest: lSa1Vu0OeQr9PLYsAaW0p/S1V7c=
+
+Name: res/drawable-hdpi-v4/video_player_v_appinapp_focus.png
+SHA1-Digest: SuPCc6OmaC+lClB1KzqK2O35nAY=
+
+Name: res/drawable/mobile_tv_view_volumemutebutton_port.xml
+SHA1-Digest: Hin0LlyKUOYb2Pa7u5GRWAin4Ws=
+
+Name: res/drawable-hdpi-v4/video_player_control_pause_n.qmg
+SHA1-Digest: 10VZ/Bx0JIxtK2xlYbvdS74SEvE=
+
+Name: res/drawable-hdpi-v4/tw_spinner_default_holo_dark.9.png
+SHA1-Digest: m+WiReGCM8rPYuP00J/Ar3fjoVk=
+
+Name: res/drawable-hdpi-v4/video_player_v_player_pause_focus.png
+SHA1-Digest: K8wEwcAK2g2/Uvi0BbCxVyiKn/0=
+
+Name: res/drawable-hdpi-v4/tw_sub_header_bg_default.9.png
+SHA1-Digest: 4Pm8Jz9HyTWNOIM0O0+3+MaQ8QI=
+
+Name: res/drawable-hdpi-v4/video_player_v_appinapp_press.qmg
+SHA1-Digest: k5WN0hIY0pn1kyDaK/SeghNkJPs=
+
+Name: res/drawable/mobile_tv_view_playbutton_port.xml
+SHA1-Digest: o8cwVTFXELCCqpvoaNG5si+icNY=
+
+Name: res/drawable-hdpi-v4/mobiletv_player_bg_9.9.png
+SHA1-Digest: l77BwcU0U9zSueT4h8RIzJZq+s0=
+
+Name: res/drawable-hdpi-v4/tw_scrubber_control_volume_disabled_holo_li
+ ght.qmg
+SHA1-Digest: 4KU2FXEciY1zp+O2l6UbqFS86ZY=
+
+Name: res/layout/tab_host_text.xml
+SHA1-Digest: VD+LgO7OUIdofm5a0q2zsMrSmMk=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_bml_normal.qmg
+SHA1-Digest: S+PzHBW76OmoQNZxdWC3lBmkZnc=
+
+Name: res/layout-land/reservation_item.xml
+SHA1-Digest: WhFG5ZfMPKXr2aKjHOndR+BuXy8=
+
+Name: res/drawable-hdpi-v4/fileplayer_bg.9.png
+SHA1-Digest: 04kCAs/55nD6jseJGh6wuI9ha/s=
+
+Name: res/drawable-hdpi-v4/video_player_v_volmute_dim.qmg
+SHA1-Digest: s3dqzxsYvo7LxT5Z9LcymtuATcQ=
+
+Name: res/drawable-hdpi-v4/dmb_channel_arrow_right_v_dim.png
+SHA1-Digest: 5aaZ4JVH6q9S+CLb6TQDvpHOkZA=
+
+Name: res/drawable-hdpi-v4/mobile_tv_icon_watching_failure.png
+SHA1-Digest: RG4guQ7NtaY2IaEkqSw2xWACVgQ=
+
+Name: res/drawable-hdpi-v4/tw_list_focused_dark.9.png
+SHA1-Digest: aKjE3vlAtEOWcluJZA/saTF3WMc=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_rec_normal.png
+SHA1-Digest: Slw2R70E+Z0NEjqwlHa+h6fOPLY=
+
+Name: res/drawable/option_menu_settings.xml
+SHA1-Digest: UJJtU17VmxmeN+0BZLppCfmc6d4=
+
+Name: res/layout-land/frag_mtv_ui_list.xml
+SHA1-Digest: 3cciU/aQsUVj3EBHWavmeMkcKws=
+
+Name: res/drawable-hdpi-v4/channel_num_04_press.png
+SHA1-Digest: 5WE+Dy2TIOH55XVF9Lls4xytDDs=
+
+Name: res/layout/act_mtv_ui_testmode_scanresult_listitem.xml
+SHA1-Digest: U47NIDZEDmXRGHZy3Q4WWrU6QFc=
+
+Name: res/drawable/option_menu_free_memory.xml
+SHA1-Digest: evV3aTOssRCzht6GkqKIfn37Rtk=
+
+Name: res/drawable/option_menu_top_to_bml.xml
+SHA1-Digest: hgy4NKc+Em5vQ8brn3BlnCLKrjU=
+
+Name: res/layout-port/channel_schedule_item.xml
+SHA1-Digest: 4rayEKD8z76Ll3WCNzjcqvujZQY=
+
+Name: res/drawable-hdpi-v4/progress_bar_bg.9.png
+SHA1-Digest: /YdA/J1pqn12OLepKCgVnqaHxrI=
+
+Name: res/drawable/option_menu_schedule_manually.xml
+SHA1-Digest: h4JRSElffw9kByrzgGFnNw13FCQ=
+
+Name: res/drawable-hdpi-v4/stat_notify_tv.png
+SHA1-Digest: d+MqCV8u+hduEikYT6W+XaYTL0Q=
+
+Name: res/drawable-hdpi-v4/mobile_tv_keypad_bg.9.png
+SHA1-Digest: PETD+Z8VV3PypzVrHLNJkm3HMJQ=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_freememory_normal.qmg
+SHA1-Digest: 7iIAsmAIMyS76lwbELAoELV/Uxw=
+
+Name: res/layout-land/bml_tvlink_list_item.xml
+SHA1-Digest: Z/r/XiiXnFWOtla/p2Al3YelQv0=
+
+Name: res/drawable-hdpi-v4/video_volume_popup_progress_bg.9.png
+SHA1-Digest: nfzyVOyL9ayyAe22pEE1x3U/bII=
+
+Name: res/drawable-hdpi-v4/video_player_appinapp_close.png
+SHA1-Digest: NA/gxiTBwQXmNH3lIFxFIvsViWk=
+
+Name: res/drawable-hdpi-v4/dmb_channel_volume_press.qmg
+SHA1-Digest: +3qghIopgsVD87cT99HLFv0GWE4=
+
+Name: res/layout/act_mtv_ui_testmode.xml
+SHA1-Digest: C9lQoe0NcxFmqEcSCopFKmAFevk=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_backbml_holo_normal.qmg
+SHA1-Digest: KJU7GIFoxXbYQRlHZNsJCzWWV8Y=
+
+Name: res/drawable-hdpi-v4/draw_btn_bml_up_press.png
+SHA1-Digest: gY4+4kqSQwGKl/yXhk/bNqacrFE=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_reset_disable.png
+SHA1-Digest: KZb+hVD7zzHpen3ztfckADUVk14=
+
+Name: res/drawable/option_menu_transfer_to_bt.xml
+SHA1-Digest: Df5yXZqxzYce6g/mk8cRcjSbfI4=
+
+Name: res/drawable-hdpi-v4/channel_num_01_press.png
+SHA1-Digest: 9RjyV+/4O/jDONoZiiirpKRjnMM=
+
+Name: res/drawable-hdpi-v4/bml_num_key_press.9.png
+SHA1-Digest: ZYmGYwX4PpR3oz/ZeIH3LcyQJ6w=
+
+Name: res/drawable/selector_channel_guide_channel_grid.xml
+SHA1-Digest: ak1jUAlOIlskZl85EMBzIClC+nI=
+
+Name: res/drawable-hdpi-v4/channel_num_07_press.png
+SHA1-Digest: FEPBaRHYWdYHnD3XozNNeI/NCtU=
+
+Name: res/layout-land/channel_list_item.xml
+SHA1-Digest: yPsJimnG5OzBpR6G0RvMd+LikYg=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_chschedule_disable.png
+SHA1-Digest: Z1+9mrRvvQ00f7/vjvWeg4Wy7YQ=
+
+Name: res/drawable-hdpi-v4/dmb_channel_volume_mute_press.png
+SHA1-Digest: UrM+6vIrrslPY40UgLomvQVs3TA=
+
+Name: res/drawable/option_menu_delete.xml
+SHA1-Digest: 3C3tpnslDSWwA2THTi8DUTB8u7E=
+
+Name: res/drawable/btn_bml_num_keypad.xml
+SHA1-Digest: arZz364D99tzLuYOjwhFwRwgVtw=
+
+Name: res/drawable-hdpi-v4/bml_num_key_normal.9.png
+SHA1-Digest: l+lnz2HW0Uy4oAST7Z3OYaVt+k8=
+
+Name: res/drawable-hdpi-v4/common_bottom_bg.9.png
+SHA1-Digest: f9yB2FOhk8ujtp/32SlwhCQq2Bs=
+
+Name: res/drawable-hdpi-v4/tw_spinner_focused_holo_dark.9.png
+SHA1-Digest: 6bwaBsaJBrIKmfmCGvzL1g/Z0qI=
+
+Name: res/drawable-hdpi-v4/video_player_v_player_rew_focus.qmg
+SHA1-Digest: LNKIPZg6KsunndyWPY8fbumlSoU=
+
+Name: res/drawable-hdpi-v4/tw_dialog_bottom_holo_dark.9.png
+SHA1-Digest: /8Rd7gHw3NSJd+7SG/5ievTOkb4=
+
+Name: res/drawable/btn_ctrmain_screen_display_widen.xml
+SHA1-Digest: gsUWjYBq6MmymNgjOAnD/+/tKmY=
+
+Name: res/drawable-hdpi-v4/bml_anim_loading_03.png
+SHA1-Digest: x17Iagcjof7udz35eQKZXUhP33E=
+
+Name: res/drawable/btn_vid_app_in_app_action_port.xml
+SHA1-Digest: xn66Txu84xeF0CFlb2QPeoVIkEA=
+
+Name: res/drawable-hdpi-v4/channel_num_03.png
+SHA1-Digest: X/mzjuF+fl28Qrd/vtlJWsaw7W4=
+
+Name: res/drawable/mobile_tv_view_leftbutton_port.xml
+SHA1-Digest: 8pPoMgFI9ayp70ZcDLrWWCKto/4=
+
+Name: res/drawable-hdpi-v4/tw_sub_header_bg_pressed.9.png
+SHA1-Digest: zhKFmyWCWAAwkfJzpsEp1Yxc1Y8=
+
+Name: res/drawable/btn_vol_action.xml
+SHA1-Digest: /2+mg2nal7NM7rBkgGMbmc6msSA=
+
+Name: res/drawable-hdpi-v4/draw_btn_bml_up_focus.png
+SHA1-Digest: gY4+4kqSQwGKl/yXhk/bNqacrFE=
+
+Name: res/layout-land/act_mtv_ui_channel_schedule.xml
+SHA1-Digest: 3p05h/tqMJVRaZiQGep6ghYEWoU=
+
+Name: res/layout/checkbox.xml
+SHA1-Digest: cQi/r8aIO34WBEfj7Ro4QAt9HOI=
+
+Name: res/drawable-hdpi-v4/video_player_control_play_f.qmg
+SHA1-Digest: wCYnYiLo11fHMToDSTC4Lqie3k0=
+
+Name: res/layout-port/frag_channel_number.xml
+SHA1-Digest: lnaxB9ENxhftaXAXwS8t9K5Bfjg=
+
+Name: res/drawable-hdpi-v4/mtv_notificaion_close_focus.png
+SHA1-Digest: W5E5qk8c941PbtZHAIa4zlyaOYo=
+
+Name: res/layout-land/act_mtv_ui_player.xml
+SHA1-Digest: 8g74HW8W9hDI8mkUjuqujoZXjiE=
+
+Name: res/drawable/fileplayer_progressbar.xml
+SHA1-Digest: jTw+R15YMuYB0OFPp7SjyP64INk=
+
+Name: res/layout-land/frag_channel_number.xml
+SHA1-Digest: Lu90sC1MuWwZWZM/EH2bZBrOYWs=
+
+Name: res/drawable-hdpi-v4/tab_pressed.9.png
+SHA1-Digest: w2Q0YjEfUHThBErMs2pu8FlOXws=
+
+Name: res/drawable/btn_ch_down_action_land.xml
+SHA1-Digest: ma8+iZKrBybrgmK7HCdPnR6URKE=
+
+Name: res/drawable-hdpi-v4/mobile_tv_view_play_button.png
+SHA1-Digest: btlsxKJty9PhPISxlSrMlZWb/Ow=
+
+Name: res/layout-port/ctrl_progress_popup.xml
+SHA1-Digest: DOLC/kTDFrDT8fP5N9YVFfMlSgw=
+
+Name: res/drawable/option_menu_launch_epg.xml
+SHA1-Digest: AH8JPZgUiBNKXyPd8JaxuCwBl+s=
+
+Name: res/drawable/btn_app_in_app_action_land.xml
+SHA1-Digest: Cdui03z/P0PcUYjW8CyHYpK6RVE=
+
+Name: res/layout-port/channel_list_item.xml
+SHA1-Digest: 0e/KlRmu6S5+VHnCTIvNeeGArKA=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_transfer_disable.png
+SHA1-Digest: gWcKx8PkBOzo2SBdrcVKZtyhXM0=
+
+Name: res/drawable/mobile_tv_view_pausebutton_port.xml
+SHA1-Digest: I/i8sAwTg+kRl1oqZ4OfTLvp3lo=
+
+Name: res/drawable-hdpi-v4/mobile_stop_tv_icon_full.png
+SHA1-Digest: ayFSt24G+mSYmR9JlAdOD//PXr4=
+
+Name: res/drawable-hdpi-v4/mobile_tv_display01_press.png
+SHA1-Digest: RObiZoNGglOMZRrz0RuI7I98od0=
+
+Name: res/layout/frag_settings.xml
+SHA1-Digest: ZnRFs5q1NB+1qHzlJJWp0Mk/R+4=
+
+Name: res/drawable-hdpi-v4/dmb_channel_app_in_app_press.png
+SHA1-Digest: ur26xBgQwk1Tx0b7r6z6Pd59YVs=
+
+Name: res/drawable-hdpi-v4/dmb_bottom_bg_01.png
+SHA1-Digest: OHQ8qAuUn8F2P4VZQv/J6kWhUZM=
+
+Name: res/drawable-ldpi-v4/mainmenu_icon_tv.qmg
+SHA1-Digest: K4pdaXC+LF/jEpOnT/3LUwRmThY=
+
+Name: res/drawable/btn_ch_back_action.xml
+SHA1-Digest: BsMQfTh3liLnhM+xVx/EYXWbOXg=
+
+Name: res/drawable-hdpi-v4/dmb_player_list_play.png
+SHA1-Digest: zuYO4o7e4zKOfUpzgLPjQIPXABo=
+
+Name: res/drawable-hdpi-v4/channel_num_07.png
+SHA1-Digest: 153JJZSsXi3JIOr/N7xN5YNnvvc=
+
+Name: res/drawable-hdpi-v4/dmb_player_list_loading.png
+SHA1-Digest: 7+rF5lIFatDk4z4FMMxlf7cj8Wk=
+
+Name: res/layout-port/act_mtv_ui_tvlinks.xml
+SHA1-Digest: nUgjaqTCW4yhsKBIE3xb0b3AUvQ=
+
+Name: res/drawable-hdpi-v4/channel_num_ok_press.png
+SHA1-Digest: P0IkjN1lMEmzxExHX/gTp4L5dv8=
+
+Name: res/drawable-hdpi-v4/channel_num_09_press.png
+SHA1-Digest: 8jFiZ4qnQ0lErHEg7q/AirN9GvQ=
+
+Name: res/drawable-hdpi-v4/video_player_v_appinapp.qmg
+SHA1-Digest: ZIIWl32RycZy1nZvX4Rj4mNL9g4=
+
+Name: res/drawable/btn_orientation_action.xml
+SHA1-Digest: tAHU29Lz9U07qKCMu8xjfM6V1rA=
+
+Name: res/layout/act_mtv_ui_manual_reservation.xml
+SHA1-Digest: T8GV0UmG0+r5fboV/MSjChdHjDM=
+
+Name: res/drawable-hdpi-v4/dmb_channel_volume_focus.qmg
+SHA1-Digest: 2gTK3AnLXKJlmMJLEH1V+TI/yJ8=
+
+Name: res/drawable-hdpi-v4/mobile_tv_display03.png
+SHA1-Digest: dHhoGxiNRGNyrc4pbYT+cOudRbo=
+
+Name: res/layout-port/activity_station_data.xml
+SHA1-Digest: epWaX9qsTxuavBbfw4BsldOFIlM=
+
+Name: res/drawable-hdpi-v4/mobile_tv_ch_left_button_press.qmg
+SHA1-Digest: 3Qe0pnLvsgd1UxJdvfivRKbvGQU=
+
+Name: res/drawable-hdpi-v4/mobile_tv_display03_focus.png
+SHA1-Digest: U23TYudqwvydsTP+nwdVgc8XTpo=
+
+Name: res/drawable-hdpi-v4/video_player_v_player_rew_press.qmg
+SHA1-Digest: abdO4Wpb97SJ5+UtRsgMj50jj0w=
+
+Name: res/drawable-hdpi-v4/video_player_v_volmute_focus.png
+SHA1-Digest: OE06TZiom9mJW/zxRckuX9pJR3Y=
+
+Name: res/layout-land/frag_mtv_bml_numeric.xml
+SHA1-Digest: aoOpcMZyn8QuAM1f0Tw5E3esgL8=
+
+Name: res/drawable/tw_action_bar_icon_check.xml
+SHA1-Digest: 3O6SYlyKICge0sQ49TZgPsncO24=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_check_disabled_holo_dark
+ .png
+SHA1-Digest: XSekRO6FFBK/TBPTNEEBT0KqVYY=
+
+Name: res/drawable-hdpi-v4/tab_unselected.9.png
+SHA1-Digest: LCJs+nymOAI4vFxacE7LR/N1otw=
+
+Name: res/drawable/btn_ch_up_action_land.xml
+SHA1-Digest: lSdFYGk6YBodz7VsEoB0peWoXSk=
+
+Name: res/drawable-mdpi-v4/mainmenu_icon_tv.qmg
+SHA1-Digest: K4pdaXC+LF/jEpOnT/3LUwRmThY=
+
+Name: res/drawable-hdpi-v4/dmb_player_list_tv_image.png
+SHA1-Digest: Rqub5Y+I9MyDUloTb1PLGVVIxxc=
+
+Name: res/layout/act_hdmi.xml
+SHA1-Digest: wdqi1vqeruWySlkA9lpBwH8kVZ0=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_setting_disable.png
+SHA1-Digest: jMq392Dm8B/bMNAqixUk86Csdmo=
+
+Name: res/layout-port/frag_capture.xml
+SHA1-Digest: k+AvV5VPSOM6OzOigjpel5+IBeM=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_tv_normal.png
+SHA1-Digest: CCjvlJEy8xa0sA+epdNFmVF/wZs=
+
+Name: res/drawable-hdpi-v4/mobile_tv_view_pause_button.png
+SHA1-Digest: G1vO3UGegnjmXT2++QextJZMwh8=
+
+Name: res/drawable-hdpi-v4/dmb_channel_volume_mute.qmg
+SHA1-Digest: RpLU/jyoqy4AWlkPgCdMHIpUT34=
+
+Name: res/drawable-hdpi-v4/tw_divider_vertical_holo_dark.9.png
+SHA1-Digest: vcYAyx3gALscZ2B9UUCTrFnN2jQ=
+
+Name: res/layout-port/frag_mtv_bml_basic.xml
+SHA1-Digest: V1gq9KZ/mwFJDfaczR64Cm4Juyk=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_tvfile_disable.png
+SHA1-Digest: b/EthcHBzuvyWvqBV6R4sjrMPDY=
+
+Name: res/drawable/btn_ch_down_action_port.xml
+SHA1-Digest: qAXUF69iyGscCeh3+33clLwif/0=
+
+Name: res/drawable/mobile_tv_view_leftbutton_land.xml
+SHA1-Digest: UEiEwtR7F7xnx3YyMEUkuE3guoY=
+
+Name: res/drawable-hdpi-v4/dmb_channel_arrow_left_v.qmg
+SHA1-Digest: zhuWD/ipYvhRx1+0DBwujFXxmRk=
+
+Name: res/drawable/tab_background.xml
+SHA1-Digest: YntAfHmtW8jzPCstTQimH0yBr2w=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_capture_normal.png
+SHA1-Digest: IyChxn2I9j79l/xPOFbssBXI2Hw=
+
+Name: res/drawable-hdpi-v4/mobile_tv_icon_phone_url.png
+SHA1-Digest: W7rG6O8mtvc3DY47lMBSPF4kvzM=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_capture_disable.png
+SHA1-Digest: GxTT+GzGt0WBfEgBQq5tPumrhS0=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_chchange_disable.qmg
+SHA1-Digest: MT/JL7SdadEG7ohUeFwar4Qwg0Y=
+
+Name: res/drawable-hdpi-v4/dmb_channel_volume_mute_focus.qmg
+SHA1-Digest: pSsuPBOg1h7TiuCW6X56JQT/Mwk=
+
+Name: res/layout-land/frag_mtv_bml_keypad_caption.xml
+SHA1-Digest: Z9+ahGIn9fplnIjP+xSzgyLnSlw=
+
+Name: res/layout-port/activity_station_data_item.xml
+SHA1-Digest: Rk2Bn+72/Hu6QQZag3sBt+e8GYU=
+
+Name: res/layout-land/bml_layout_input_dialog.xml
+SHA1-Digest: jJYHfkMYIMH2GzWnZTqY8UDspBk=
+
+Name: res/layout-port/tv_file_item.xml
+SHA1-Digest: GZ6nWEK2bNgvWSW3uoyc+xO8rcc=
+
+Name: res/drawable/btn_vol_mute_action.xml
+SHA1-Digest: J39BTh10WMbj/g19S++sCJ0YWYw=
+
+Name: res/drawable-hdpi-v4/video_volume_popup_progress_bar.9.png
+SHA1-Digest: tzyKsAvXI2vmewSGT4rMpa0D3Hg=
+
+Name: res/layout-land/frag_capture.xml
+SHA1-Digest: v6Q/bh3POHo6PkstihF4iQ9GHQc=
+
+Name: res/drawable/option_menu_update.xml
+SHA1-Digest: pUDUIYQ+qjaFdERl9QjiLaQg+nA=
+
+Name: res/drawable-hdpi-v4/video_player_v_player_play_press.qmg
+SHA1-Digest: Yqq2WXhpRnHLe8wxaN6I4Qfgyuo=
+
+Name: res/drawable-hdpi-v4/bml_num_key_focus.9.png
+SHA1-Digest: afUl+S1Vf6o7ZIpKnh51OAHDEGQ=
+
+Name: res/drawable-hdpi-v4/video_player_control_pause_f.qmg
+SHA1-Digest: uhkWVAiQVR/fWi3ivptAs0GeEdQ=
+
+Name: res/layout-land/frag_main_control_bar_default.xml
+SHA1-Digest: 7K1Lp9j3wuazBxkH/W3QGE1Dc7Q=
+
+Name: resources.arsc
+SHA1-Digest: QTJPcgvqAAK6M3nSZIol68U5+hM=
+
+Name: res/drawable/mtv_notification_bg.xml
+SHA1-Digest: kbxUcGHAoxapYb9JEmxEXGOZKSg=
+
+Name: res/drawable-hdpi-v4/dmb_channel_arrow_right_v.qmg
+SHA1-Digest: Z/jzqebO2xoLAiFexn+Qbo3Oqcw=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_transfer_normal.png
+SHA1-Digest: ECADwyWCB466EcXxUAFRtzkjMhk=
+
+Name: res/drawable-hdpi-v4/bml_num_key_select.9.png
+SHA1-Digest: pGlwt29u8LnkFaP+tQMK5qY8g9U=
+
+Name: res/drawable-hdpi-v4/dmb_channel_arrow_left_v_dim.png
+SHA1-Digest: PDVRVOhYWK+SdkUFLXPC5Txxqx8=
+
+Name: res/drawable-hdpi-v4/tw_spinner_pressed_holo_dark.9.png
+SHA1-Digest: WWfvyzszdzGS3MzF4PYI/xN2/i8=
+
+Name: res/layout-port/reservation_item.xml
+SHA1-Digest: v6wvVYw6omJ6ewZ7nx+mNU721UY=
+
+Name: res/drawable-hdpi-v4/tw_btn_default_selected_holo_dark.9.png
+SHA1-Digest: J0bGpLUTbEaChBdMINqewhqUaU4=
+
+Name: res/drawable/mobile_tv_view_volumebutton_port.xml
+SHA1-Digest: 5JsyZhTCsYgjibr5jZux1wTwA+g=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_exit_disabled_holo_dark.
+ png
+SHA1-Digest: mFIyQ+nhvWkJfeLfg7PhEyiBcWU=
+
+Name: res/menu/action_bar_manual_reservation_menu.xml
+SHA1-Digest: 7cE9WbP4avs7Ha4ZfNr2YKpEywk=
+
+Name: res/layout-land/frag_mtv_reservation_list.xml
+SHA1-Digest: J/2O8ioj2zsCfYhpK0o+4SLrZcM=
+
+Name: res/drawable-hdpi-v4/channel_num_04.png
+SHA1-Digest: XdUkC2NY4876rFuAc5g+3agL45M=
+
+Name: res/drawable/btn_bml_up_action.xml
+SHA1-Digest: rv5WsxNIQWcrm9hTvb+MLCbuSMg=
+
+Name: res/drawable-hdpi-v4/channel_num_03_press.png
+SHA1-Digest: fWdR8ZoLnKYRVbPI4CoBTv9by+Q=
+
+Name: res/drawable-hdpi-v4/channel_btn_icon_1234.png
+SHA1-Digest: P9OxB11dkmcyzyKBW5dhPc7DIho=
+
+Name: res/drawable-hdpi-v4/channel_btn_icon_down.png
+SHA1-Digest: Cgi2nc5Glv6UZimIvbPsvqVP/N4=
+
+Name: res/drawable-hdpi-v4/stat_sys_dmb_signal_00.png
+SHA1-Digest: XjMwUkypQj3IT+iK9N47cN+2dCk=
+
+Name: res/drawable-hdpi-v4/tv_small_view_bg.qmg
+SHA1-Digest: mNKC/TuWumzBl/1bjXDwIm3IYpY=
+
+Name: res/drawable-hdpi-v4/bml_anim_loading_02.png
+SHA1-Digest: jHGaymbnMPk3uD0ENNF7/aZU5I8=
+
+Name: res/drawable-hdpi-v4/tw_textfield_focused_holo_dark.9.png
+SHA1-Digest: 6/lcDPDu46b1TI7uVlOMUp4NFug=
+
+Name: res/drawable-hdpi-v4/music_control_progressbar_buffering.9.png
+SHA1-Digest: FMF5/0/Rh2xoc3VnXycK3AvAK0c=
+
+Name: res/layout-port/frag_mtv_ui_list.xml
+SHA1-Digest: I3It9MMni59qdPFGP2NSjtdXJUg=
+
+Name: res/drawable-hdpi-v4/tw_scrubber_control_normal_holo.png
+SHA1-Digest: nAL1m9IIo23bABLvAG3CqVm/TUg=
+
+Name: res/drawable-hdpi-v4/channel_num_back_press.png
+SHA1-Digest: dY0OTy7eQVbZslQLilIUmiEu/lI=
+
+Name: res/drawable-hdpi-v4/tw_widget_progressbar_small_holo_dark.qmg
+SHA1-Digest: ZNK+sIO4dz7GQJwUgZg1F18wgb0=
+
+Name: res/menu-port/action_bar_delete_menu.xml
+SHA1-Digest: K3uG2HGMAzq8Gn+VfbZx4QCMnsQ=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_update_all_disabled_holo
+ _dark.png
+SHA1-Digest: Wt/8BzSkJvs/LTIgMBaE1XZ9kGo=
+
+Name: res/drawable-hdpi-v4/dmb_channel_arrow_left_h_press.png
+SHA1-Digest: /9uDjy8ATM4n7Ede+pPYvpmjvDc=
+
+Name: res/drawable-hdpi-v4/dmb_channel_arrow_left_h.qmg
+SHA1-Digest: n4vzpKxK2JKVN6HCu37e5wH4olM=
+
+Name: res/layout-port/act_mtv_ui_player.xml
+SHA1-Digest: /EnCsF/eewjasFvLaY5c4y/p5OE=
+
+Name: res/drawable-hdpi-v4/video_player_h_volmute_d.qmg
+SHA1-Digest: vvbWifPQeRDc8cq4ECBUQBlCTZU=
+
+Name: res/drawable/btn_ch_number0_action.xml
+SHA1-Digest: BYqaC4x2d3U9t9ysw9Tv3GbU8Ws=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_chchange_normal.qmg
+SHA1-Digest: /42gLlGZSPvWPS5PxHKmPj+L9mk=
+
+Name: res/drawable-hdpi-v4/dmb_player_list_default.png
+SHA1-Digest: eKvnLfKT7jjmwtVn6Sl587V6dTo=
+
+Name: res/drawable-hdpi-v4/channel_num_00.png
+SHA1-Digest: VxVH00A2Z8hblydb5I468k/EjbE=
+
+Name: res/layout-port/item_testmode_channel.xml
+SHA1-Digest: Z+tLQNIxBahltyhU1PJtb2SmTpQ=
+
+Name: res/drawable-hdpi-v4/tw_scrubber_control_focused_holo.qmg
+SHA1-Digest: 0Glc4qSPqz82a+wTnd0wauAUKMQ=
+
+Name: res/drawable-hdpi-v4/video_player_control_play_n.qmg
+SHA1-Digest: ye0Hp94mYQiMdZ4SnVoiDE7iv6c=
+
+Name: res/layout/act_mtv_ui_configration.xml
+SHA1-Digest: +3hEKAa2kD+kUDMWSkQFnL5Hnkw=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_chinput_disable.png
+SHA1-Digest: /aZWEMbUsJ/IEYTJ3Oq//SiurZU=
+
+Name: res/drawable-hdpi-v4/mobile_tv_icon_recording_failure.png
+SHA1-Digest: /KHC3QZsLEE/9SYUJn5sNbIhF/0=
+
+Name: res/drawable-hdpi-v4/tw_toast_frame_holo_dark.9.png
+SHA1-Digest: AGUNRUnWu0cDHh6IZCBvnOspi4c=
+
+Name: res/drawable-hdpi-v4/tw_textfield_disabled_holo_dark.9.png
+SHA1-Digest: Z8nf3/QdGNOkmVJYfwaSUsni51I=
+
+Name: res/drawable-hdpi-v4/video_player_h_volmute.qmg
+SHA1-Digest: 9wKOS3ickwWbYw8aaMqun8dJOaM=
+
+Name: res/drawable-hdpi-v4/tw_action_bar_icon_backbml_disable.qmg
+SHA1-Digest: Z+a9ly6dTKwou0giahaw9/vgTmA=
+
+Name: res/drawable-hdpi-v4/video_player_v_volume_dim.png
+SHA1-Digest: lxiIfXh8Boz+cDmreScsdsaXC8A=
+
+Name: res/drawable-hdpi-v4/dmb_channel_rotate.qmg
+SHA1-Digest: wpD1d+z2PxyvETuB7zwA5YrCQ9k=
+
+Name: res/drawable-hdpi-v4/tw_popup_list_line_01.9.png
+SHA1-Digest: 5x7A8mKlDHsqpbxAphb0SVNl2pc=
+
+Name: res/layout-port/frag_volume_control_bar.xml
+SHA1-Digest: lTTUtIESe9rJ6w83NPFOjvvCHH4=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: TZoq5fn2jjj23LAmyukLzy8TVPA=
+
+Name: res/layout-port/act_mtv_ui_channel_schedule.xml
+SHA1-Digest: ZK9akMBbG2ZfxCAYqVJHHc+RZq8=
+
+Name: res/drawable-hdpi-v4/video_player_h_volume_press.qmg
+SHA1-Digest: nrLsjjtkTDGOwvZmhSQcz3a4cN0=
+
+Name: res/drawable/btn_ctrmain_screen_display.xml
+SHA1-Digest: DWjVt1v0+k9YoFrAptyvkjusXnQ=
+
+Name: res/drawable-hdpi-v4/video_player_v_player_pause.png
+SHA1-Digest: engLHJu0uRzswnpVnGKoWua/6xU=
+
+Name: res/drawable-hdpi-v4/video_player_v_player_play_focus.qmg
+SHA1-Digest: hW4Uc0F2SkRU9B6fWHrTINi+KJo=
+
+Name: res/drawable/option_menu_tv_live_exit.xml
+SHA1-Digest: +upHa4+h5o/TqQbFFbM6g2Mdu3Y=
+
+Name: res/drawable-hdpi-v4/tw_widget_progressbar_large_holo_dark.qmg
+SHA1-Digest: tn1GnOIIqR6SAsXg3TwS2FfRxmE=
+
+Name: res/drawable/btn_ch_number9_action.xml
+SHA1-Digest: 2yHKlSU6iDsoDH3WtCfj7J0BREs=
+
+Name: res/drawable-hdpi-v4/channel_num_01.png
+SHA1-Digest: CbGMw1saYIV1d8ZfVZwxQiZNGCQ=
+
+Name: res/drawable/tw_action_bar_icon_cancel.xml
+SHA1-Digest: ewZ4g/Bz2RB9D39pfvf/6ZkklL0=
+
+Name: res/drawable-hdpi-v4/video_player_v_player_pause_press.png
+SHA1-Digest: lhNxXMOLUmXCk44BjulM17ZiL7Y=
+
+Name: res/drawable-hdpi-v4/tw_dialog_full_holo_dark.9.png
+SHA1-Digest: QWcza5HbkOfhsu5QX1E9rWffyQQ=
+

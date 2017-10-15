@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="55.0px" android:typeface="sans" android:gravity="center" android:id="@id/station_data_name" android:layout_width="wrap_content" android:layout_height="97.0px" android:layout_marginLeft="20.0px" />
+    <TextView android:textSize="55.0px" android:typeface="sans" android:gravity="center" android:id="@id/station_data_count" android:layout_width="wrap_content" android:layout_height="97.0px" android:layout_marginRight="20.0px" android:layout_alignParentRight="true" />
+    <CheckBox android:layout_gravity="right" android:id="@id/station_data_check" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="13.0dip" android:layout_alignParentRight="true" />
+</RelativeLayout>

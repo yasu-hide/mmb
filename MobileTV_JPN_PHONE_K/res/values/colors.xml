@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="No_item">#ff6e6e6e</color>
+    <color name="batterymeter_bolt_color">#ff141414</color>
+    <color name="batterymeter_frame_color">#66ffffff</color>
+    <color name="bml_keypad_button_text">#ffffffff</color>
+    <color name="details_title">#ffc8c8c8</color>
+    <color name="details_value">#ffa2a2a2</color>
+    <color name="input_text_color_default">#ffebebeb</color>
+    <color name="input_title_color">#ff94b4c3</color>
+    <color name="main_control_bar_text">#ffffffff</color>
+    <color name="opaque_black">#75000000</color>
+    <color name="status_bar_background">#ff000000</color>
+    <color name="status_bar_battery_percentage">#ffffffff</color>
+    <color name="status_bar_channel_name">#fff5f5f5</color>
+    <color name="status_bar_program_name">#ffa2b8cf</color>
+    <color name="status_bar_program_name_landscape">#ffffffff</color>
+    <color name="time_indicator">#ffffffff</color>
+    <color name="transparency">#00000000</color>
+    <color name="tv_file_channel_name">#ff8d9ca3</color>
+    <color name="tv_file_program_name">#fff5f5f5</color>
+    <color name="volume_popup_bar_text">#fff0f0f0</color>
+    <color name="white">#ffffffff</color>
+</resources>

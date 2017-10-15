@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.samsung.sec.mtv" platformBuildVersionCode="21" platformBuildVersionName="5.0.2-eng.root.20150217.140557">
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.ACCESS_DEV_STORAGE"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.SET_PROCESS_LIMIT"/>
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="com.nttdocomo.mmb.android.permission.TMM_UI"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <application android:icon="@drawable/mainmenu_icon_mobiletv" android:label="@string/app_name" android:theme="@style/ApplicationTheme">
+        <activity android:allowTaskReparenting="true" android:launchMode="singleTop" android:name="com.samsung.sec.mtv.ui.conflict.MtvUiLauncher" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:allowTaskReparenting="true" android:launchMode="singleTop" android:name="com.samsung.sec.mtv.ui.liveplayer.MtvUiLivePlayer">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="ACTION_DTV_VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:allowTaskReparenting="true" android:launchMode="singleTop" android:name="com.samsung.sec.mtv.ui.externalantenna.MtvUiAntennaDialog" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.samsung.sec.mtv.ui.common.MtvUiProgressDialog" android:theme="@android:style/Theme.Dialog"/>
+        <activity android:label="@string/app_name_testmode" android:name="com.samsung.sec.mtv.ui.TestMode.MtvUiTestMode">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEVELOPMENT_PREFERENCE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:host="4732" android:scheme="android_secret_code"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name_testmode" android:name="com.samsung.sec.mtv.ui.TestMode.TestScanResultsList">
+            <intent-filter>
+                <action android:name="com.samsung.sec.mtv.testmode.LAUNCH_SCAN_RESULTS"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name_configration" android:name="com.samsung.sec.mtv.ui.configration.MtvUiConfigration" android:screenOrientation="portrait"/>
+        <activity android:name="com.samsung.sec.mtv.ui.common.MtvUiStationData"/>
+        <activity android:name="com.samsung.sec.mtv.ui.tvlink.MtvUiTvLinks" android:screenOrientation="portrait"/>
+        <activity android:name="com.samsung.sec.mtv.ui.common.MtvUiPopUpActivity" android:theme="@style/DialogActivity.Transparent">
+            <intent-filter>
+                <action android:name="com.samsung.sec.mtv.ACTION_MTV_POP_UP"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.samsung.sec.mtv.ui.channelguide.MtvUiChannelGuide">
+            <intent-filter>
+                <action android:name="ACTION_DTV_RESERVATION_LIST"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.samsung.sec.mtv.ui.channelguide.MtvUiChangeArea"/>
+        <activity android:configChanges="orientation" android:name="com.samsung.sec.mtv.ui.channelguide.MtvUiSetArea"/>
+        <activity android:excludeFromRecents="true" android:name="com.samsung.sec.mtv.ui.common.MtvUiManualReservation" android:taskAffinity="com.samsung.sec.mtv.ui.MtvUiPlayer">
+            <intent-filter>
+                <action android:name="ACTION_DTV_RESERVATION_DETAILS"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.samsung.sec.mtv.ui.common.MtvUiRemoveList"/>
+        <activity android:name="com.samsung.sec.mtv.ui.fileplayer.MtvUiFilePlayer"/>
+        <activity android:name="com.samsung.sec.mtv.ui.channelguide.MtvUiChannelSchedule"/>
+        <activity android:name="com.samsung.sec.mtv.ui.common.MtvUiSettingsBroadcast"/>
+        <activity android:launchMode="singleTop" android:name="com.samsung.sec.mtv.ui.sviewcover.MtvUiSViewCover" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="com.samsung.sec.mtv.ACTION_MTV_SVIEW_COVER_VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <meta-data android:name="com.sec.android.sdk.cover.MODE" android:value="1"/>
+        </activity>
+        <activity android:label="@string/app_name_configration" android:name="com.samsung.sec.mtv.ui.TestMode.MtvUiActivtyTestFragment"/>
+        <activity android:label="@string/app_name_configration" android:name="com.samsung.sec.mtv.ui.autoantenna.MtvUiAutoAntenna" android:theme="@android:style/Theme.Dialog">
+            <intent-filter>
+                <action android:name="android.intent.action.antenna"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <uses-library android:name="sechardware"/>
+        <uses-library android:name="touchwiz"/>
+        <uses-library android:name="com.sec.android.app.minimode"/>
+        <uses-library android:name="mmb.android.MmbFcBrowMw" android:required="false"/>
+        <uses-library android:name="mmb.android.MmbFcContMw" android:required="false"/>
+        <uses-library android:name="mmb.android.MmbFcIndivdMw" android:required="false"/>
+        <uses-library android:name="mmb.android.MmbFcMfestMw" android:required="false"/>
+        <uses-library android:name="mmb.android.MmbFcMp4Mw" android:required="false"/>
+        <uses-library android:name="mmb.android.MmbFcPgInfoMw" android:required="false"/>
+        <uses-library android:name="mmb.android.MmbMoInfoMw" android:required="false"/>
+        <uses-library android:name="mmb.android.MmbScSecClkMw" android:required="false"/>
+        <uses-library android:name="mmb.android.MmbSeMngMw" android:required="false"/>
+        <uses-library android:name="mmb.android.MmbStBmlMw" android:required="false"/>
+        <uses-library android:name="mmb.android.MmbStCtlMw" android:required="false"/>
+        <uses-library android:name="com.nttdocomo.mmb.android.mmbsv.library" android:required="false"/>
+        <uses-library android:name="com.nttdocomo.mmb.android.mmbsv.porting" android:required="false"/>
+        <receiver android:enabled="true" android:name="com.samsung.sec.mtv.reciever.MtvKeyStringReciever">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="4732" android:scheme="android_secret_code"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:name="com.samsung.sec.mtv.reciever.MtvBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="com.samsung.sec.mtv.ACTION_MTV_RESERVATION_START"/>
+                <action android:name="com.samsung.sec.mtv.ACTION_MTV_RESERVATION_REMINDER"/>
+                <action android:name="com.samsung.sec.mtv.ACTION_MTV_RESERVATION_END"/>
+                <action android:name="android.intent.action.MEDIA_BUTTON"/>
+                <action android:name="android.intent.action.ACTION_MEDIA_MOUNTED"/>
+                <action android:name="android.intent.action.ACTION_MEDIA_UNMOUNTED"/>
+                <action android:name="android.intent.action.ACTION_MEDIA_EJECT"/>
+                <action android:name="com.samsung.sec.mtv.DTV_ANTENNA_OPEN"/>
+            </intent-filter>
+        </receiver>
+        <service android:icon="@drawable/mainmenu_icon_tv" android:label="@string/app_name" android:name="com.samsung.sec.mtv.ui.minitv.MtvMiniModeService">
+            <intent-filter>
+                <action android:name="com.samsung.action.MINI_MODE_SERVICE"/>
+                <category android:name="com.samsung.category.MINI_MODE_LAUNCHER"/>
+            </intent-filter>
+            <meta-data android:name="com.sec.minimode.icon.portrait.normal" android:resource="@drawable/mainmenu_icon_tv"/>
+            <meta-data android:name="com.sec.minimode.icon.portrait.focus" android:resource="@drawable/mainmenu_icon_tv"/>
+            <meta-data android:name="com.sec.minimode.icon.landscape.normal" android:resource="@drawable/mainmenu_icon_tv"/>
+            <meta-data android:name="com.sec.minimode.icon.landscape.focus" android:resource="@drawable/mainmenu_icon_tv"/>
+        </service>
+        <service android:name="com.samsung.sec.mtv.app.service.MtvOneSegRecorderService">
+            <intent-filter>
+                <action android:name="com.samsung.sec.mtv.ACTION_MTV_RECORDER_SERVICE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.samsung.sec.mtv.app.service.MtvOneSegRemoteService" android:process=":MtvRemoteService">
+            <intent-filter>
+                <action android:name="com.samsung.sec.mtv.ACTION_MTV_REMOTE_SERVICE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.samsung.sec.mtv.ACTION_MTV_REMOTE_SERVICE_UPDATE_DB"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+        <provider android:authorities="com.samsung.sec.mtv" android:name="com.samsung.sec.mtv.provider.MtvProvider"/>
+        <provider android:authorities="com.samung.sec.mtv.ui.TestMode.TestScans" android:name="com.samsung.sec.mtv.ui.TestMode.TestScansProvider"/>
+        <meta-data android:name="SPDE.build.signature" android:value="788973/1428956/PHONE_K-release"/>
+        <meta-data android:name="SPDE.env.version" android:value="1.0.0/21.3.36/21.3.6"/>
+    </application>
+</manifest>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <EditText android:id="@id/manual_reserve_dummyEditTextFocus" android:layout_width="0.0dip" android:layout_height="0.0dip" />
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="82.0dip">
+                <TextView android:textSize="17.0dip" android:textColor="@color/input_title_color" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="5.0dip" android:text="@string/reservation_type" />
+                <Button android:textSize="18.0dip" android:textColor="@color/input_text_color_default" android:gravity="center|left" android:id="@id/manual_reserve_type" android:background="@drawable/btn_dropdown_ctrl" android:paddingLeft="10.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="38.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="4.0dip" android:layout_marginRight="16.0dip" android:textAllCaps="false" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="82.0dip">
+                <TextView android:textSize="17.0dip" android:textColor="@color/input_title_color" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="5.0dip" android:text="@string/channel" />
+                <Button android:textSize="18.0dip" android:textColor="@color/input_text_color_default" android:gravity="center|left" android:id="@id/manual_reserve_channel_number" android:background="@drawable/btn_dropdown_ctrl" android:paddingLeft="10.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="38.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="4.0dip" android:layout_marginRight="16.0dip" android:textAllCaps="false" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="82.0dip">
+                <TextView android:textSize="17.0dip" android:textColor="@color/input_title_color" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="5.0dip" android:text="@string/start_time" />
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <Button android:textSize="18.0dip" android:textColor="@color/input_text_color_default" android:gravity="center|left" android:id="@id/manual_reserve_start_date" android:background="@drawable/btn_dropdown_ctrl" android:paddingLeft="10.0dip" android:paddingBottom="8.0dip" android:layout_width="wrap_content" android:layout_height="38.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="4.0dip" android:layout_marginRight="8.0dip" android:layout_weight="1.0" />
+                    <Button android:textSize="18.0dip" android:textColor="@color/input_text_color_default" android:gravity="center|left" android:id="@id/manual_reserve_start_time" android:background="@drawable/btn_dropdown_ctrl" android:paddingLeft="10.0dip" android:paddingBottom="8.0dip" android:layout_width="wrap_content" android:layout_height="38.0dip" android:layout_marginTop="4.0dip" android:layout_marginRight="16.0dip" android:layout_weight="1.0" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="82.0dip">
+                <TextView android:textSize="17.0dip" android:textColor="@color/input_title_color" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="5.0dip" android:text="@string/end_time" />
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <Button android:textSize="18.0dip" android:textColor="@color/input_text_color_default" android:gravity="center|left" android:id="@id/manual_reserve_end_date" android:background="@drawable/btn_dropdown_ctrl" android:paddingLeft="10.0dip" android:paddingBottom="8.0dip" android:layout_width="wrap_content" android:layout_height="38.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="4.0dip" android:layout_marginRight="8.0dip" android:layout_weight="1.0" />
+                    <Button android:textSize="18.0dip" android:textColor="@color/input_text_color_default" android:gravity="center|left" android:id="@id/manual_reserve_end_time" android:background="@drawable/btn_dropdown_ctrl" android:paddingLeft="10.0dip" android:paddingBottom="8.0dip" android:layout_width="wrap_content" android:layout_height="38.0dip" android:layout_marginTop="4.0dip" android:layout_marginRight="16.0dip" android:layout_weight="1.0" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="140.0dip">
+                <TextView android:textSize="17.0dip" android:textColor="@color/input_title_color" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="5.0dip" android:text="@string/program_title" />
+                <EditText android:textSize="18.0sp" android:textColor="@color/input_text_color_default" android:gravity="left" android:id="@id/manual_reserve_program_name" android:background="@drawable/tw_textfield_bg" android:paddingLeft="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="4.0dip" android:layout_marginRight="16.0dip" android:hint="@string/program_title" android:maxLength="254" android:layout_weight="0.0" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

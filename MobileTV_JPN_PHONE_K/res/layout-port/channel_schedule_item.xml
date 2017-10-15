@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/ch_schedule_seperator_linear_layout" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@touchwiz:style/TwTextAppearanceGroupTitle" android:textSize="17.0dip" android:typeface="sans" android:textStyle="bold" android:gravity="center_vertical" android:id="@id/seperator_text" android:background="@drawable/dark_header" android:paddingLeft="11.0dip" android:focusable="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="28.0dip" android:shadowColor="@touchwiz:color/tw_color002" android:shadowDx="-1.0" android:shadowDy="-1.0" android:shadowRadius="1.0" />
+    <RelativeLayout android:id="@id/chtrl_ChItemLayout" android:layout_width="fill_parent" android:layout_height="65.0dip"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <ImageView android:gravity="center_vertical" android:id="@id/ReservationTypeImageView" android:layout_width="27.0dip" android:layout_height="27.0dip" android:layout_marginLeft="6.0dip" android:layout_marginTop="8.0dip" android:layout_alignParentTop="true" />
+        <TextView android:textSize="17.0dip" android:textColor="#ff7e7e7e" android:id="@id/ChTimeText" android:layout_width="fill_parent" android:layout_height="19.0dip" android:layout_marginLeft="6.0dip" android:layout_marginTop="11.0dip" android:layout_marginRight="6.0dip" android:layout_toRightOf="@id/ReservationTypeImageView" android:layout_alignParentTop="true" />
+        <TextView android:textSize="22.0dip" android:textColor="#ffd7d7d7" android:id="@id/ChNameTextView" android:layout_width="fill_parent" android:layout_height="28.0dip" android:layout_marginLeft="6.0dip" android:layout_marginTop="1.0px" android:layout_marginRight="6.0dip" android:layout_toRightOf="@id/ReservationTypeImageView" android:layout_below="@id/ChTimeText" />
+        <ImageView android:id="@id/schedule_now_on_air" android:layout_width="75.0dip" android:layout_height="16.0dip" android:layout_marginLeft="277.0dip" android:layout_marginTop="8.0dip" android:src="@drawable/mobile_tv_onair" android:layout_alignParentTop="true" />
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TwSeekBar">
+        <item name="android:maxHeight">5.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/fileplayer_progressbar</item>
+        <item name="android:minHeight">5.0dip</item>
+        <item name="android:thumb">@drawable/video_player_seek_bar_thumb</item>
+        <item name="android:thumbOffset">15.0dip</item>
+        <item name="android:splitTrack">false</item>
+    </style>
+</resources>

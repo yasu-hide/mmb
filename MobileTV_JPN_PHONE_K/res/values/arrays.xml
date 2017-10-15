@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="TVLink_Details">
+        <item>@string/details</item>
+        <item>@string/delete</item>
+    </string-array>
+    <integer-array name="batterymeter_bolt_points">
+        <item>73</item>
+        <item>0</item>
+        <item>392</item>
+        <item>0</item>
+        <item>201</item>
+        <item>259</item>
+        <item>442</item>
+        <item>259</item>
+        <item>4</item>
+        <item>703</item>
+        <item>157</item>
+        <item>334</item>
+        <item>0</item>
+        <item>334</item>
+    </integer-array>
+    <string-array name="broadcast_data_items">
+        <item>@string/set_recording</item>
+        <item>@string/image_location</item>
+        <item>@string/notify_connection</item>
+        <item>@string/location</item>
+        <item>@string/manufacture_number</item>
+        <item>@string/delete_station_data</item>
+    </string-array>
+    <string-array name="broadcast_data_items_no_SD">
+        <item>@string/set_recording</item>
+        <item>@string/notify_connection</item>
+        <item>@string/location</item>
+        <item>@string/manufacture_number</item>
+        <item>@string/delete_station_data</item>
+    </string-array>
+    <integer-array name="def_channel_favorite">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <string-array name="def_channel_name">
+        <item>ＨＢＣ北海道放送</item>
+        <item>ＮＨＫ教育・札幌</item>
+        <item>ＮＨＫ総合・札幌</item>
+        <item>ＳＴＶ札幌テレビ</item>
+        <item>ＨＴＢ北海道テレビ</item>
+        <item>ＴＶＨ</item>
+        <item>ＵＨＢ</item>
+        <item>ＮＨＫ教育・岡山</item>
+        <item>ＫＳＢ瀬戸内海放送</item>
+        <item>ＲＳＫテレビ</item>
+        <item>ＯＨＫテレビ</item>
+        <item>MTV</item>
+    </string-array>
+    <integer-array name="def_channel_physical">
+        <item>13</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+    </integer-array>
+    <integer-array name="def_channel_virtual">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>4</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </integer-array>
+    <string-array name="delete_station_data">
+        <item>@string/nhk_sougou</item>
+        <item>@string/nhk_kyouik</item>
+        <item>@string/ntv</item>
+        <item>@string/tbs</item>
+        <item>@string/fuji</item>
+        <item>@string/tv_asahi</item>
+        <item>@string/tv_tokyo</item>
+        <item>@string/other_uhf</item>
+        <item>@string/other_1</item>
+        <item>@string/other_2</item>
+        <item>@string/other_3</item>
+        <item>@string/other_4</item>
+    </string-array>
+    <string-array name="file_longClick">
+        <item>@string/view_the_file</item>
+        <item>@string/delete</item>
+        <item>@string/details</item>
+        <item>@string/rename</item>
+    </string-array>
+    <string-array name="image_location_options">
+        <item>@string/phone</item>
+        <item>@string/memory_card</item>
+    </string-array>
+    <string-array name="longclick_items">
+        <item>@string/delete</item>
+    </string-array>
+    <string-array name="on_off_ask_options">
+        <item>@string/On</item>
+        <item>@string/Off</item>
+        <item>@string/ask</item>
+    </string-array>
+    <string-array name="reserve_delete">
+        <item>@string/delete</item>
+    </string-array>
+    <string-array name="reset_area">
+        <item>@string/reset</item>
+    </string-array>
+    <string-array name="schedule_longclick_normal">
+        <item>@string/schedule_to_record</item>
+        <item>@string/schedule_to_watch</item>
+    </string-array>
+    <string-array name="schedule_longclick_play">
+        <item>@string/schedule_to_record</item>
+        <item>@string/cancel_schedule</item>
+    </string-array>
+    <string-array name="schedule_longclick_rec">
+        <item>@string/schedule_to_watch</item>
+        <item>@string/cancel_schedule</item>
+    </string-array>
+    <string-array name="sel_reserve_type">
+        <item>@string/record</item>
+        <item>@string/watch_the_channel</item>
+    </string-array>
+    <string-array name="set_recording_options">
+        <item>@string/image_text</item>
+        <item>@string/image_only</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/controller" android:background="#00000000" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/ctrl_progress_layout" android:background="@drawable/mobiletv_player_bg_9" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginTop="163.0dip">
+        <RelativeLayout android:id="@id/ctrl_progress" android:layout_width="fill_parent" android:layout_height="fill_parent"> -->
+<SeekBar android:scrollbarStyle="outsideOverlay" android:id="@id/videocontroller_progress" android:paddingLeft="19.0dip" android:paddingRight="19.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:max="100" android:progress="0" style="@style/TwSeekBar" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/ctrl_playtime" android:layout_width="fill_parent" android:layout_height="18.0dip" android:layout_marginTop="32.0dip">
+            <TextView android:textSize="16.0dip" android:textColor="#ff009afb" android:gravity="left" android:id="@id/time_current" android:paddingLeft="16.0dip" android:paddingTop="0.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:shadowColor="@touchwiz:color/tw_color002" android:layout_alignParentLeft="true" />
+            <TextView android:textSize="16.0dip" android:textColor="#ffffffff" android:gravity="right" android:id="@id/time_total" android:paddingTop="0.0dip" android:paddingRight="16.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:shadowColor="@touchwiz:color/tw_color002" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <TextView android:textSize="12.0dip" android:textColor="#ffffffff" android:gravity="center" android:id="@id/Text_TrickMode" android:background="@drawable/mobiele_tv_speed_bg" android:visibility="invisible" android:layout_width="38.0dip" android:layout_height="33.0dip" android:layout_marginLeft="7.0dip" android:layout_marginTop="126.0dip" android:singleLine="true" />
+    <RelativeLayout android:id="@id/controller_se" android:layout_width="fill_parent" android:layout_height="53.0dip" android:layout_below="@id/ctrl_progress" android:layout_alignParentBottom="true">
+        <ImageButton android:id="@id/VideoPlayerBtnRew" android:background="@drawable/mobile_tv_view_leftbutton_port" android:focusable="true" android:layout_width="48.0dip" android:layout_height="48.0dip" android:layout_marginLeft="74.0dip" android:contentDescription="@string/previous_button" />
+        <ImageButton android:id="@id/VideoPlayerBtnPause" android:background="@drawable/mobile_tv_view_pausebutton_port" android:focusable="true" android:layout_width="76.0dip" android:layout_height="48.0dip" android:layout_marginLeft="142.0dip" android:contentDescription="@string/play_pause_button" />
+        <ImageButton android:id="@id/VideoPlayerBtnFf" android:background="@drawable/mobile_tv_view_rightbutton_port" android:focusable="true" android:layout_width="48.0dip" android:layout_height="48.0dip" android:layout_marginLeft="238.0dip" android:contentDescription="@string/next_button" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout android:id="@id/channel_guide_ch_list_parent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView android:id="@id/tvfiles_list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_x="0.0dip" android:layout_y="0.0dip" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/tvFilesEmpty" android:background="#ff000000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_x="0.0dip" android:layout_y="0.0dip">
+        <ImageView android:gravity="center" android:id="@id/tvfilesempty_image" android:background="#ff000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/mainmenu_icon_mobiletv" />
+        <TextView android:textSize="19.0dip" android:textColor="@color/No_item" android:gravity="center" android:id="@id/tvfilesempty_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/no_tv_files" />
+    </LinearLayout>
+</AbsoluteLayout>

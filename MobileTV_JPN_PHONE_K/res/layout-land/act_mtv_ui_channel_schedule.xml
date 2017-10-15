@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:id="@id/channel_schedule" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:id="@id/ctrl_layout01" android:layout_width="fill_parent" android:layout_height="56.0dip" android:layout_marginTop="10.0dip">
+            <Button android:textSize="19.0dip" android:textColor="#ff1f89a7" android:gravity="center|left|top" android:id="@id/spinner_channel_name" android:background="@drawable/btn_dropdown_ctrl" android:paddingLeft="10.0dip" android:layout_width="fill_parent" android:layout_height="38.0dip" android:layout_marginLeft="12.0dip" android:layout_marginTop="0.0dip" android:layout_marginRight="12.0dip" android:layout_marginBottom="5.0dip" android:maxLines="1" />
+        </LinearLayout>
+        <FrameLayout android:orientation="vertical" android:id="@id/realtabcontent2" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:id="@id/ctrl_layout02" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <ListView android:id="@id/list_program_info" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                    <LinearLayout android:layout_gravity="center" android:id="@id/channelScheduleEmpty" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                        <TextView android:textSize="22.0dip" android:textColor="#ff7e7e7e" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/this_program_doesnt_provide_program_information" />
+                    </LinearLayout>
+                </FrameLayout>
+            </LinearLayout>
+        </FrameLayout>
+    </LinearLayout>
+</FrameLayout>

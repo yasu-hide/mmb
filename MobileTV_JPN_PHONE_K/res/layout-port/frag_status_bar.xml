@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/LayoutMainRoot" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_marginTop="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/LayoutRoot" android:background="@drawable/common_top_bg" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_marginTop="0.0dip"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <RelativeLayout android:id="@id/LayoutMainBar" android:layout_width="267.0dip" android:layout_height="24.0dip" android:layout_marginLeft="4.0dip" android:layout_marginTop="0.0dip">
+            <ImageView android:id="@id/ImageViewSignalLevel" android:background="@drawable/stat_sys_signal_null" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginLeft="0.0dip" android:layout_marginTop="6.0dip" android:layout_marginRight="5.0dip" />
+            <TextView android:textSize="17.0dip" android:typeface="sans" android:textColor="@color/status_bar_channel_name" android:ellipsize="end" android:id="@id/TextViewChannelName" android:layout_width="238.0dip" android:layout_height="24.0dip" android:layout_marginLeft="0.0dip" android:layout_marginTop="6.0dip" android:maxLines="1" android:includeFontPadding="false" android:layout_toRightOf="@id/ImageViewSignalLevel" />
+            <ImageView android:id="@id/ImageView5_1Channel" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginLeft="215.0dip" android:layout_marginTop="6.0dip" android:src="@drawable/indicator_51ch" />
+            <TextView android:orientation="horizontal" android:id="@id/TextViewClock" android:visibility="invisible" android:layout_width="0.0px" android:layout_height="0.0px" android:layout_alignParentRight="true" />
+            <com.samsung.sec.mtv.ui.common.MtvUiBatteryView android:id="@id/ImageViewBattery" android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="0.0dip" />
+        </RelativeLayout>
+        <TextView android:textSize="17.0dip" android:textColor="@color/status_bar_program_name" android:ellipsize="end" android:id="@id/TextViewProgramName" android:layout_width="267.0dip" android:layout_height="24.0dip" android:layout_marginLeft="4.0dip" android:layout_marginTop="30.0dip" android:layout_marginRight="0.0dip" android:singleLine="true" android:includeFontPadding="false" />
+        <ImageButton android:id="@id/Btn_Volume" android:background="@drawable/btn_vol_action" android:layout_width="34.0dip" android:layout_height="32.0dip" android:layout_marginTop="13.0dip" android:layout_marginRight="49.0dip" android:layout_alignParentRight="true" android:contentDescription="@string/volume_button" />
+        <ImageButton android:id="@id/Btn_Volume_Mute" android:background="@drawable/btn_vol_mute_action" android:layout_width="34.0dip" android:layout_height="32.0dip" android:layout_marginTop="13.0dip" android:layout_marginRight="49.0dip" android:layout_alignParentRight="true" android:contentDescription="@string/volume_button" />
+        <ImageButton android:id="@id/Btn_Menu" android:background="@drawable/btn_menu_action" android:layout_width="37.0dip" android:layout_height="37.0dip" android:layout_marginTop="11.0dip" android:layout_marginRight="6.0dip" android:layout_alignParentRight="true" android:contentDescription="@string/menu_button" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="horizontal" android:id="@id/RemoveAllLayout" android:background="@drawable/select_all_selector" android:clickable="true" android:layout_width="fill_parent" android:layout_height="56.0dip">
+        <TextView android:textSize="55.0px" android:textStyle="bold" android:gravity="center_vertical" android:id="@id/SelectAll" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:text="@string/select_all" android:layout_weight="1.0" android:layout_centerVertical="true" />
+        <TextView android:textSize="19.0dip" android:textStyle="bold" android:textColor="@color/white" android:id="@id/removeAll" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="16.0dip" android:layout_marginTop="16.0dip" android:layout_marginRight="69.0dip" android:layout_marginBottom="16.0dip" android:text="@string/select_all" />
+        <CheckBox android:id="@id/remove_check_all" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginLeft="14.0dip" android:layout_marginTop="13.0dip" android:layout_marginRight="13.0dip" android:layout_alignParentRight="true" />
+        <ImageView android:id="@id/remove_check_divider" android:paddingTop="10.0dip" android:paddingBottom="10.0dip" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginLeft="12.0dip" android:src="@drawable/tw_divider_vertical_holo_dark" android:scaleType="fitXY" android:layout_toLeftOf="@id/remove_check_all" />
+    </RelativeLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <ListView android:id="@id/remove_listview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:minHeight="97.0px" />
+        <LinearLayout android:layout_gravity="center" android:id="@id/removeEmpty" android:background="@drawable/mainmenu_icon_mobiletv" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </FrameLayout>
+</LinearLayout>

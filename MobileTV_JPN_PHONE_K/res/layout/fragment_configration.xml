@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:id="@id/ScrollView01" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:id="@id/LinearLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <CheckBox android:id="@id/CheckBox_FileSimulation" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/file_simulation" />
+            <CheckBox android:id="@id/CheckBox_TSCaptue" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/ts_capture" />
+            <TextView android:textSize="16.0dip" android:textColor="#ffffffff" android:gravity="center_vertical" android:layout_gravity="center|left" android:id="@id/TextView_Debug" android:background="#ff505050" android:paddingLeft="58.0px" android:visibility="visible" android:clickable="true" android:layout_width="fill_parent" android:layout_height="50.0dip" android:text="@string/debug_level_settings" />
+            <CheckBox android:id="@id/CheckBox_Debug_Error" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_error" />
+            <CheckBox android:id="@id/CheckBox_Debug_High" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_high" />
+            <CheckBox android:id="@id/CheckBox_Debug_Mid" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_mid" />
+            <CheckBox android:id="@id/CheckBox_Debug_Low" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_low" />
+            <TextView android:textSize="16.0dip" android:textColor="#ffffffff" android:gravity="center_vertical" android:layout_gravity="center|left" android:id="@id/TextView_Debug" android:background="#ff505050" android:paddingLeft="58.0px" android:visibility="visible" android:clickable="true" android:layout_width="fill_parent" android:layout_height="50.0dip" android:text="@string/debug_module_settings" />
+            <CheckBox android:id="@id/CheckBox_Debug_Live" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_Live" />
+            <CheckBox android:id="@id/CheckBox_Debug_Local" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_Local" />
+            <CheckBox android:id="@id/CheckBox_Debug_ChnGuide" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_ChannelGuide" />
+            <CheckBox android:id="@id/CheckBox_Debug_Tvlink" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_Tvlink" />
+            <CheckBox android:id="@id/CheckBox_Debug_TestMode" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_TestMode" />
+            <CheckBox android:id="@id/CheckBox_Debug_Fragemnts" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_Fragemnts" />
+            <CheckBox android:id="@id/CheckBox_Debug_Common" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_UI_Common" />
+            <CheckBox android:id="@id/CheckBox_Debug_Utility" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_Utility" />
+            <CheckBox android:id="@id/CheckBox_Debug_Reservation" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_Reservation" />
+            <CheckBox android:id="@id/CheckBox_Debug_Helper" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_Helper" />
+            <CheckBox android:id="@id/CheckBox_Debug_Bml" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_BML" />
+            <CheckBox android:id="@id/CheckBox_Debug_PlaybackContext" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_PlaybackContext" />
+            <CheckBox android:id="@id/CheckBox_Debug_AppBase" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_AppBase" />
+            <CheckBox android:id="@id/CheckBox_Debug_Player" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_Player" />
+            <CheckBox android:id="@id/CheckBox_Debug_FrameWork" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_FrameWork" />
+            <CheckBox android:id="@id/CheckBox_Debug_FW_Utility" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_FW_Utility" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

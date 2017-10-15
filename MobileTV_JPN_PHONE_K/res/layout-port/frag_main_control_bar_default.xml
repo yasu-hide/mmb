@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/RootLayout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/ctrl_main_controller_layout" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginTop="565.0dip">
+        <ImageButton android:id="@id/Btn_ChannelDown" android:background="@drawable/btn_ctrmain_action_portrait" android:layout_width="86.0dip" android:layout_height="37.0dip" android:layout_marginLeft="6.0dip" android:layout_marginTop="4.0dip" android:src="@drawable/btn_ch_down_action_port" android:contentDescription="@string/previous_button" />
+        <Button android:textSize="19.0dip" android:textColor="@color/main_control_bar_text" android:id="@id/Btn_ChannelList" android:background="@drawable/btn_ctrmain_action_portrait" android:paddingTop="0.0dip" android:paddingBottom="0.0dip" android:layout_width="98.0dip" android:layout_height="37.0dip" android:layout_marginLeft="4.0dip" android:layout_marginTop="4.0dip" android:layout_toRightOf="@id/Btn_ChannelDown" />
+        <ImageButton android:id="@id/Btn_ChannelUp" android:background="@drawable/btn_ctrmain_action_portrait" android:layout_width="86.0dip" android:layout_height="37.0dip" android:layout_marginLeft="4.0dip" android:layout_marginTop="4.0dip" android:src="@drawable/btn_ch_up_action_port" android:layout_toRightOf="@id/Btn_ChannelList" android:contentDescription="@string/next_button" />
+    </RelativeLayout>
+</RelativeLayout>

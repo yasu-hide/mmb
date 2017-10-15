@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/RelativeLayout01" android:layout_width="fill_parent" android:layout_height="65.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/ReservationTypeImageView" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="17.0dip" android:layout_marginRight="10.0dip" />
+    <TextView android:textSize="20.0sp" android:textColor="#fff5f5f5" android:ellipsize="end" android:id="@id/ProgramNameText" android:layout_width="fill_parent" android:layout_height="33.0dip" android:layout_marginTop="11.0dip" android:singleLine="true" android:includeFontPadding="false" android:layout_toLeftOf="@id/deleteLayout" android:layout_toRightOf="@id/ReservationTypeImageView" android:layout_alignParentTop="true" android:layout_centerVertical="false" />
+    <TextView android:textSize="14.0sp" android:textColor="#ff8d9ca3" android:ellipsize="end" android:id="@id/reserve_ChNumText" android:layout_width="fill_parent" android:layout_height="20.0dip" android:singleLine="true" android:includeFontPadding="false" android:layout_toLeftOf="@id/deleteLayout" android:layout_toRightOf="@id/ReservationTypeImageView" android:layout_below="@id/ProgramNameText" android:layout_centerVertical="false" />
+    <RelativeLayout android:id="@id/deleteLayout" android:layout_width="57.0dip" android:layout_height="65.0dip" android:layout_alignParentRight="true">
+        <CheckBox android:id="@id/ReserveCheck" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginLeft="14.0dip" android:layout_marginTop="18.0dip" android:layout_marginRight="12.0dip" android:layout_alignParentRight="true" />
+        <ImageView android:id="@id/remove_check_divider" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginLeft="12.0dip" android:layout_marginTop="15.0dip" android:layout_marginBottom="15.0dip" android:src="@drawable/tw_divider_vertical_holo_dark" android:scaleType="fitXY" android:layout_toLeftOf="@id/ReserveCheck" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:padding="6.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/scan_time_in_milliseconds" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/textView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/detected_channels" android:layout_below="@id/textView1" android:layout_alignLeft="@id/textView1" />
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/textView3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/max_detection_time_in_milliseconds" android:layout_below="@id/textView2" android:layout_alignLeft="@id/textView2" />
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/textView4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/min_detection_time_in_milliseconds" android:layout_below="@id/textView3" android:layout_alignLeft="@id/textView3" />
+    <TextView android:id="@id/maxchannel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/textView3" android:layout_alignBaseline="@id/textView3" android:layout_alignBottom="@id/textView3" />
+    <TextView android:id="@id/minchannel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignBaseline="@id/textView4" android:layout_alignLeft="@id/maxchannel" android:layout_alignBottom="@id/textView4" />
+    <TextView android:id="@id/numchannels" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/textView3" android:layout_above="@id/textView3" />
+    <TextView android:id="@id/scantime" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_above="@id/textView2" android:layout_alignLeft="@id/numchannels" />
+</RelativeLayout>

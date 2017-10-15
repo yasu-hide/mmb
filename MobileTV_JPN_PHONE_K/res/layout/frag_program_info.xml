@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:id="@id/prog_info" android:background="@drawable/tw_dialog_bottom_holo_dark" android:layout_width="322.0dip" android:layout_height="301.0dip" android:layout_marginBottom="79.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+        <ScrollView android:id="@id/ScrollView02" android:layout_width="fill_parent" android:layout_height="80.0dip" android:layout_marginLeft="17.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="17.0dip" android:layout_below="@id/ChannelNameandPno">
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="16.0dip" android:textColor="#fff5f5f5" android:id="@id/ChannelNameandPno" android:layout_width="fill_parent" android:layout_height="20.0dip" />
+                <TextView android:textSize="16.0dip" android:textColor="#fff5f5f5" android:id="@id/prognameandinterval" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/ChannelNameandPno" />
+            </RelativeLayout>
+        </ScrollView>
+        <ScrollView android:id="@id/ScrollView01" android:layout_width="fill_parent" android:layout_height="100.0dip" android:layout_marginLeft="17.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="17.0dip" android:layout_below="@id/ScrollView02">
+            <AbsoluteLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="16.0dip" android:textColor="#fff5f5f5" android:id="@id/progdescription" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/prognameandinterval" />
+            </AbsoluteLayout>
+        </ScrollView>
+        <LinearLayout android:orientation="horizontal" android:id="@id/LinearLayout02" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_alignParentBottom="true">
+            <Button android:typeface="sans" android:textColor="#fff5f5f5" android:id="@id/proginfo_schedule" android:background="@drawable/white_bg" android:layout_width="fill_parent" android:layout_height="43.0dip" android:layout_marginLeft="3.0dip" android:layout_marginTop="3.0dip" android:layout_marginBottom="3.0dip" android:text="@string/schedule" android:layout_weight="1.0" />
+            <Button android:typeface="sans" android:textColor="#fff5f5f5" android:id="@id/proginfo_watch" android:background="@drawable/white_bg" android:layout_width="fill_parent" android:layout_height="43.0dip" android:layout_marginLeft="3.0dip" android:layout_marginTop="3.0dip" android:layout_marginBottom="3.0dip" android:text="@string/watch_the_channel" android:layout_weight="1.0" android:layout_toRightOf="@id/proginfo_schedule" />
+            <Button android:typeface="sans" android:textColor="#fff5f5f5" android:id="@id/prog_info_ok" android:background="@drawable/white_bg" android:layout_width="fill_parent" android:layout_height="43.0dip" android:layout_marginLeft="3.0dip" android:layout_marginTop="3.0dip" android:layout_marginRight="3.0dip" android:layout_marginBottom="3.0dip" android:text="@string/ok" android:layout_weight="1.0" android:layout_toRightOf="@id/proginfo_watch" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/LinearLayout03" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_alignParentBottom="true">
+            <Button android:typeface="sans" android:textColor="#fff5f5f5" android:id="@id/prog_info_ok_only" android:background="@drawable/white_bg" android:layout_width="fill_parent" android:layout_height="50.0dip" android:text="@string/ok" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

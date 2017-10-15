@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout android:id="@id/LyoutRoot_bml_loading" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/layout_root_bml_srface" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_x="0.0px" android:layout_y="0.0px">
+        <TextView android:id="@id/dummy_view_4_full_Screen" android:layout_width="fill_parent" android:layout_height="0.0px" />
+        <com.samsung.sec.mtv.ui.bml.MtvUiBmlSurfaceView android:id="@id/surfaceView_bml" android:visibility="visible" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </LinearLayout>
+    <RelativeLayout android:id="@id/bml_loading" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:id="@id/anim_bml_loading" android:background="@drawable/tw_toast_frame_holo_light" android:layout_width="194.0dip" android:layout_height="31.0dip" android:layout_marginLeft="21.0dip" android:layout_marginTop="390.0dip">
+            <ImageView android:id="@id/image_bml_buffering" android:background="@anim/anim_bml_loading_progress" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_marginLeft="0.0dip" android:layout_marginTop="0.0dip" />
+            <TextView android:textSize="15.0dip" android:textColor="@color/bml_keypad_button_text" android:gravity="center" android:id="@id/bml_buffering_text" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/bml_receiving" android:layout_toRightOf="@id/image_bml_buffering" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/root_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</AbsoluteLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabHost android:id="@id/myTabHost" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TabWidget android:gravity="top" android:id="@android:id/tabs" android:background="@drawable/tab_background" android:layout_width="316.0dip" android:layout_height="48.0dip" android:weightSum="4.0" android:tabStripEnabled="false" />
+    <FrameLayout android:id="@android:id/tabcontent" android:layout_width="0.0px" android:layout_height="0.0px" />
+    <RelativeLayout android:gravity="right" android:background="@drawable/tab_unselected" android:layout_width="44.0dip" android:layout_height="48.0dip" android:layout_marginLeft="316.0dip" android:layout_marginTop="0.0dip" />
+    <ImageButton android:layout_gravity="right" android:id="@id/Btn_Menu" android:background="@drawable/btn_menu_action" android:layout_width="44.0dip" android:layout_height="48.0dip" android:layout_marginTop="0.0dip" android:layout_marginRight="0.0dip" android:contentDescription="@string/menu_button" />
+    <FrameLayout android:id="@id/channelguide" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <FrameLayout android:id="@id/realtabcontent" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="48.0dip" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/layout_root_bml_srface" android:layout_width="0.0px" android:layout_height="0.0px" android:layout_x="0.0px" android:layout_y="0.0px">
+            <com.samsung.sec.mtv.ui.bml.MtvUiBmlSurfaceView android:gravity="center" android:id="@id/surfaceView_bml" android:visibility="visible" android:clickable="true" android:layout_width="0.0px" android:layout_height="0.0px" android:layout_x="0.0px" android:layout_y="0.0px" />
+        </LinearLayout>
+        <RelativeLayout android:id="@id/bml_loading" android:visibility="gone" android:layout_width="0.0px" android:layout_height="0.0px">
+            <RelativeLayout android:id="@id/anim_bml_loading" android:background="@drawable/tw_toast_frame_holo_dark" android:layout_width="0.0px" android:layout_height="0.0px" android:layout_marginLeft="0.0px" android:layout_marginTop="0.0px">
+                <ImageView android:id="@id/image_bml_buffering" android:background="@anim/anim_bml_loading_progress" android:layout_width="0.0px" android:layout_height="0.0px" android:layout_marginLeft="0.0px" android:layout_marginTop="0.0px" />
+                <TextView android:textSize="20.0px" android:gravity="center" android:id="@id/bml_buffering_text" android:layout_width="205.0px" android:layout_height="fill_parent" android:text="@string/bml_receiving" android:layout_toRightOf="@id/image_bml_buffering" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </FrameLayout>
+</TabHost>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/layout_testmode" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/signal_params" android:background="#ff444444" android:paddingLeft="10.0px" android:layout_width="fill_parent" android:layout_height="65.0px">
+        <TextView android:textSize="50.0px" android:textColor="#ffffffff" android:gravity="center" android:id="@id/signal_details" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/signal_info" />
+    </LinearLayout>
+    <com.samsung.sec.mtv.ui.common.MtvSurfaceView android:id="@id/video_surfaceview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="65.0px" android:layout_marginBottom="120.0px" />
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:id="@id/testmode_signal_layout" android:layout_width="fill_parent" android:layout_height="140.0px" android:weightSum="3.0">
+        <TextView android:textSize="30.0px" android:textColor="#ffffffff" android:id="@id/channel_info" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <TextView android:textSize="30.0px" android:textColor="#ffffffff" android:id="@id/scan_info" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <TextView android:textSize="30.0px" android:textColor="#ffffffff" android:id="@id/signal_info" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    </LinearLayout>
+</FrameLayout>

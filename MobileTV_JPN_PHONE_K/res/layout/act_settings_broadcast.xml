@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/broadcast_settings_parent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <ListView android:id="@id/broadcast_settings_list_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:minHeight="92.0dip" android:layout_x="0.0px" android:layout_y="0.0px" />
+    </FrameLayout>
+</LinearLayout>

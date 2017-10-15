@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ApplicationTheme">
+        <item name="android:textSize">18.0sp</item>
+    </style>
+    <style name="DialogActivity.Transparent" parent="@android:style/Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="TwSeekBar">
+        <item name="android:maxHeight">5.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/fileplayer_progressbar</item>
+        <item name="android:minHeight">5.0dip</item>
+        <item name="android:thumb">@drawable/video_player_seek_bar_thumb</item>
+        <item name="android:thumbOffset">15.0dip</item>
+    </style>
+</resources>
