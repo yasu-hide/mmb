@@ -2204,51 +2204,14 @@
 .end method
 
 .method private requestSystemKeyEvent(IZ)Z
-    .locals 3
+    .locals 1
     .param p1, "keyCode"    # I
     .param p2, "request"    # Z
 
     .prologue
-    .line 1606
-    const-string v2, "window"
+    const/4 v0, 0x00
 
-    invoke-static {v2}, Landroid/os/ServiceManager;->getService(Ljava/lang/String;)Landroid/os/IBinder;
-
-    move-result-object v2
-
-    invoke-static {v2}, Landroid/view/IWindowManager$Stub;->asInterface(Landroid/os/IBinder;)Landroid/view/IWindowManager;
-
-    move-result-object v1
-
-    .line 1609
-    .local v1, "windowmanager":Landroid/view/IWindowManager;
-    :try_start_0
-    invoke-virtual {p0}, Lcom/samsung/sec/mtv/ui/common/MtvUiRemoveList;->getComponentName()Landroid/content/ComponentName;
-
-    move-result-object v2
-
-    invoke-interface {v1, p1, v2, p2}, Landroid/view/IWindowManager;->requestSystemKeyEvent(ILandroid/content/ComponentName;Z)Z
-    :try_end_0
-    .catch Landroid/os/RemoteException; {:try_start_0 .. :try_end_0} :catch_0
-
-    move-result v2
-
-    .line 1613
-    :goto_0
-    return v2
-
-    .line 1610
-    :catch_0
-    move-exception v0
-
-    .line 1611
-    .local v0, "e":Landroid/os/RemoteException;
-    invoke-virtual {v0}, Landroid/os/RemoteException;->printStackTrace()V
-
-    .line 1613
-    const/4 v2, 0x0
-
-    goto :goto_0
+    return v0
 .end method
 
 .method private setFileInfo(Lcom/samsung/sec/mtv/provider/MtvFile;)V
