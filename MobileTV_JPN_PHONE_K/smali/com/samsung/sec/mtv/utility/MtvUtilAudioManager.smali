@@ -1486,22 +1486,6 @@
 
     move-result-object v0
 
-    .line 571
-    .local v0, "btAdapter":Landroid/bluetooth/BluetoothAdapter;
-    if-eqz v0, :cond_0
-
-    .line 572
-    const-string v1, "MtvUtilAudioManager"
-
-    const-string v2, "btAdapter not null"
-
-    invoke-static {v1, v2}, Landroid/broadcast/helper/MtvUtilDebug;->Low(Ljava/lang/String;Ljava/lang/String;)V
-
-    .line 576
-    invoke-virtual {v0, p1}, Landroid/bluetooth/BluetoothAdapter;->setScmstContentProtection(Z)Z
-
-    .line 579
-    :cond_0
     return-void
 .end method
 
