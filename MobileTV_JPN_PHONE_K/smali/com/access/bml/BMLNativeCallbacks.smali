@@ -493,30 +493,11 @@
     invoke-direct {p0}, Lcom/access/bml/BMLNativeCallbacks;->init_timer()V
 
     .line 50
-    :try_start_0
     const-string v1, "BMLJNI"
 
     invoke-static {v1}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V
-    :try_end_0
-    .catch Ljava/lang/UnsatisfiedLinkError; {:try_start_0 .. :try_end_0} :catch_0
 
-    .line 56
-    :goto_0
     return-void
-
-    .line 51
-    :catch_0
-    move-exception v0
-
-    .line 52
-    .local v0, "e":Ljava/lang/UnsatisfiedLinkError;
-    const-string v1, "BMLNativeCallbacks"
-
-    const-string v2, "can\'t find <BMLJNI> library file !"
-
-    invoke-static {v1, v2}, Landroid/broadcast/helper/MtvUtilDebug;->High(Ljava/lang/String;Ljava/lang/String;)V
-
-    goto :goto_0
 .end method
 
 .method private init_timer()V
