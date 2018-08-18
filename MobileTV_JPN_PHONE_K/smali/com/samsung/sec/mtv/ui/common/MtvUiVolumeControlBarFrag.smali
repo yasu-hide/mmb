@@ -145,8 +145,6 @@
 
     const/4 v3, 0x3
 
-    invoke-virtual {v2, v3}, Landroid/widget/SeekBar;->setMode(I)V
-
     .line 116
     const v2, 0x7f0a00fc
 
