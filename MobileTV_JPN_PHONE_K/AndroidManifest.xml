@@ -103,7 +103,7 @@
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
-        <uses-library android:name="sechardware"/>
+        <!-- <uses-library android:name="sechardware"/> -->
         <!-- <uses-library android:name="touchwiz"/> -->
         <uses-library android:name="com.sec.android.app.minimode"/>
         <uses-library android:name="mmb.android.MmbFcBrowMw" android:required="false"/>
