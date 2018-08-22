@@ -356,90 +356,12 @@
 .end method
 
 .method public static isAllowedBy3LMPolicy()Z
-    .locals 6
+    .locals 1
 
     .prologue
-    const/4 v2, 0x1
+    const/4 v0, 0x1
 
-    .line 348
-    const-string v3, "MtvUtilAppService"
-
-    const-string v4, "isAllowedBy3LMPolicy"
-
-    invoke-static {v3, v4}, Landroid/broadcast/helper/MtvUtilDebug;->Low(Ljava/lang/String;Ljava/lang/String;)V
-
-    .line 349
-    invoke-static {}, Lcom/samsung/sec/mtv/utility/MtvFeatures;->is3LMEnabled()Z
-
-    move-result v3
-
-    if-eqz v3, :cond_0
-
-    .line 352
-    :try_start_0
-    const-string v3, "OemExtendedApi3LM"
-
-    invoke-static {v3}, Landroid/os/ServiceManager;->getService(Ljava/lang/String;)Landroid/os/IBinder;
-
-    move-result-object v3
-
-    invoke-static {v3}, Landroid/os/IOemExtendedApi3LM$Stub;->asInterface(Landroid/os/IBinder;)Landroid/os/IOemExtendedApi3LM;
-
-    move-result-object v1
-
-    .line 353
-    .local v1, "oem3lm":Landroid/os/IOemExtendedApi3LM;
-    if-eqz v1, :cond_0
-
-    .line 355
-    invoke-interface {v1}, Landroid/os/IOemExtendedApi3LM;->getOneSegState()I
-    :try_end_0
-    .catch Landroid/os/RemoteException; {:try_start_0 .. :try_end_0} :catch_0
-
-    move-result v3
-
-    if-ne v3, v2, :cond_1
-
-    .line 367
-    :cond_0
-    :goto_0
-    return v2
-
-    .line 358
-    :cond_1
-    const/4 v2, 0x0
-
-    goto :goto_0
-
-    .line 361
-    :catch_0
-    move-exception v0
-
-    .line 363
-    .local v0, "e":Landroid/os/RemoteException;
-    const-string v3, "MtvUtilAppService"
-
-    new-instance v4, Ljava/lang/StringBuilder;
-
-    invoke-direct {v4}, Ljava/lang/StringBuilder;-><init>()V
-
-    const-string v5, "IsAllowedBy3LMPolicy"
-
-    invoke-virtual {v4, v5}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
-
-    move-result-object v4
-
-    invoke-virtual {v4, v0}, Ljava/lang/StringBuilder;->append(Ljava/lang/Object;)Ljava/lang/StringBuilder;
-
-    move-result-object v4
-
-    invoke-virtual {v4}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
-
-    move-result-object v4
-
-    invoke-static {v3, v4}, Landroid/broadcast/helper/MtvUtilDebug;->Low(Ljava/lang/String;Ljava/lang/String;)V
-
-    goto :goto_0
+    return v0
 .end method
 
 .method public static isAppExiting()Z
