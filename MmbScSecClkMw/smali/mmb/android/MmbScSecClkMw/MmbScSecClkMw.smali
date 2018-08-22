@@ -9,9 +9,9 @@
 
     .prologue
     .line 23
-    const-string v0, "/system/lib/libMmbPoSecClkMp.so"
+    const-string v0, "MmbPoSecClkMp"
 
-    invoke-static {v0}, Ljava/lang/System;->load(Ljava/lang/String;)V
+    invoke-static {v0}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V
 
     .line 24
     return-void

@@ -23,9 +23,9 @@
 
     .prologue
     .line 27
-    const-string v0, "/system/lib/libMmbPoInfoMp.so"
+    const-string v0, "MmbPoInfoMp"
 
-    invoke-static {v0}, Ljava/lang/System;->load(Ljava/lang/String;)V
+    invoke-static {v0}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V
 
     .line 28
     return-void

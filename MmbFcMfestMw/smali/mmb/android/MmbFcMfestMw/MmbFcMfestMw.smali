@@ -90,9 +90,9 @@
     sput-object v0, Lmmb/android/MmbFcMfestMw/MmbFcMfestMw;->TYPE_MP4:[Ljava/lang/String;
 
     .line 58
-    const-string v0, "/system/lib/libMmbFcMfestMw.so"
+    const-string v0, "MmbFcMfestMw"
 
-    invoke-static {v0}, Ljava/lang/System;->load(Ljava/lang/String;)V
+    invoke-static {v0}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V
 
     .line 59
     return-void

@@ -19,9 +19,9 @@
 
     .prologue
     .line 34
-    const-string v0, "/system/lib/libMmbStBmlMwService_jni.so"
+    const-string v0, "MmbStBmlMwService_jni"
 
-    invoke-static {v0}, Ljava/lang/System;->load(Ljava/lang/String;)V
+    invoke-static {v0}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V
 
     .line 35
     return-void

@@ -48,9 +48,9 @@
     invoke-virtual {v0, v1}, Lmmb/android/MmbSeMngMw/MmbSeMngMwLog;->mmbLogD(Ljava/lang/String;)V
 
     .line 39
-    const-string v0, "/system/lib/libMmbSeMngMw.so"
+    const-string v0, "MmbSeMngMw"
 
-    invoke-static {v0}, Ljava/lang/System;->load(Ljava/lang/String;)V
+    invoke-static {v0}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V
 
     .line 40
     sget-object v0, Lmmb/android/MmbSeMngMw/MmbSeMngMw;->log:Lmmb/android/MmbSeMngMw/MmbSeMngMwLog;

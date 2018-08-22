@@ -171,9 +171,9 @@
 
     .prologue
     .line 454
-    const-string v0, "/system/lib/libmmbfcmp4mw_jni.so"
+    const-string v0, "mmbfcmp4mw_jni"
 
-    invoke-static {v0}, Ljava/lang/System;->load(Ljava/lang/String;)V
+    invoke-static {v0}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V
 
     .line 455
     invoke-static {}, Lmmb/android/MmbFcMp4Mw/MmbFcMp4MwPlayer;->native_init()V
