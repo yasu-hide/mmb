@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-xxhdpi-v4/ic_stat_notify_mmaudiobackgroundplay.png
+SHA1-Digest: WADMhwiAiPlhTo4RIAQdkTHc9fI=
+
+Name: res/drawable-xxhdpi-v4/ic_stat_notify_mmantenna_level1.qmg
+SHA1-Digest: ciQlXASECO7AWW34lwYeiTJF5NE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: kl3nzsvtkOC7iHvgY30B8SnGq24=
+
+Name: res/drawable-xxhdpi-v4/ic_stat_notify_mmfcaccumulated.png
+SHA1-Digest: zjuvmJtThg2Qqp0p2Z2f895lMho=
+
+Name: res/drawable-xxhdpi-v4/ic_stat_notify_mmantenna_level3.qmg
+SHA1-Digest: tNbiLuFFoX2wKbObclYGZkJ6YS4=
+
+Name: assets/mmbPrConfiguration.bin
+SHA1-Digest: xH4mVgDdlqOZkvN/BDFQp+gd/4E=
+
+Name: resources.arsc
+SHA1-Digest: w7v3RdopboTV1uVaqITRu88M2LQ=
+
+Name: res/drawable-xxhdpi-v4/ic_stat_notify_mmantenna_level4.qmg
+SHA1-Digest: kKEBS75RlB7CQr7hnwbaPulyNVc=
+
+Name: res/drawable-xxhdpi-v4/ic_stat_notify_mmantenna_level0.qmg
+SHA1-Digest: ogBVMlMvaP8i38xgHmOdN3fj8YI=
+
+Name: classes.dex
+SHA1-Digest: 9aijOM/8NaGcwR9KxNOfblbOok4=
+
+Name: res/drawable-xxhdpi-v4/ic_stat_notify_mmantenna_level2.qmg
+SHA1-Digest: oxV3BNXYXqhQ1kJEqipFLPNuB2o=
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="META_A_RETRY_COUNT">6</integer>
+    <integer name="FC_RETRY_COUNT">6</integer>
+    <integer name="RETRY_INTERVAL_TIME">300000</integer>
+    <integer name="META_A_RETRY_SPAN">30</integer>
+</resources>

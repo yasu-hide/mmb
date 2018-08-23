@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">MmbServiceProcess</string>
+    <string name="start_notificasion">モバキャスサービスを開始します</string>
+    <string name="idle_notificasion">モバキャスサービス起動中です</string>
+    <string name="failer_download">「%s」受信終了</string>
+    <string name="failer_download_msg">受信に失敗した場合はコンテンツリストに表示されません。</string>
+    <string name="msg_text_open_started">『%s』の利用が可能になりました。</string>
+    <string name="msg_text_download_end">予約したコンテンツ『%s』が受信されました。</string>
+    <string name="msg_text_download_progress" formatted="false">『%s』の受信が%d%%完了しました。</string>
+    <string name="msg_caption_download_progress">「%s」受信中</string>
+    <string name="msg_title_mmbi_broadcast">モバキャス放送波</string>
+    <string name="msg_text_mmbi_receiving">現在、放送波を受信中です。</string>
+    <string name="msg_text_mmbi_not_receiving">現在、放送波を受信できません。</string>
+    <string name="msg_text_content_receiving">現在、放送波を受信中です。</string>
+    <string name="msg_text_content_not_receiving">現在、放送波を受信できません。</string>
+    <string name="msg_text_meta_receiving">現在、番組表を受信中です。</string>
+    <string name="msg_text_meta_not_receiving">現在、番組表を受信できません。</string>
+    <string name="msg_title_background_play">再生中</string>
+    <string name="msg_text_background_play">蓄積ブラウザを再生中です。</string>
+    <string name="failer_complement">「%s」の補完が完了できませんでした。</string>
+    <string name="failer_complement_reason_nw_outside">通信圏外のため、「%s」の補完ができませんでした。</string>
+    <string name="failer_complement_reason_no_sdcard">SDカードが挿入されていないため、「%s」の補完ができませんでした。</string>
+    <string name="failer_complement_reason_no_uim">SIMカードが挿入されていないため、「%s」の補完ができませんでした。</string>
+    <string name="failer_complement_reason_uim_unsupported">非対応のSIMカードのため、「%s」の補完ができませんでした。</string>
+    <string name="failer_complement_reason_no_battery">バッテリー残量がわずかのため、「%s」の補完ができませんでした。</string>
+    <string name="failer_complement_reason_no_mcc">日本国外のため、「%s」の補完ができませんでした。</string>
+    <string name="failer_complement_reason_out_of_memory">SDカードの空き容量が不足しているため、「%s」の補完ができませんでした。</string>
+    <string name="failer_complement_reason_stop_complement">「%s」の補完を中止しました。</string>
+    <string name="failer_complement_reason_connection_error">通信エラーにより、「%s」の補完が完了できませんでした。</string>
+    <string name="failer_complement_reason_connection_error_show_status">通信エラーにより、補完が完了できませんでした。(%d)</string>
+    <string name="failer_complement_reason_default_message">予期せぬエラーにより、「%s」の補完が完了できませんでした。</string>
+    <string name="failer_complement_reason_content_error">コンテンツ情報にエラーが発生したため、「%s」の補完が完了できませんでした。</string>
+    <string name="failer_complement_reason_complement_outside">補完対象外コンテンツのため、「%s」の補完が完了できませんでした。</string>
+    <string name="failer_complement_reason_sdcard_unsupported">SDカードが認識できないため、「%s」の補完ができませんでした。</string>
+    <string name="failer_complement_reason_period_outside">補完期間外のため、「%s」の補完が完了できませんでした。</string>
+    <string name="failer_complement_reason_damage_content">コンテンツが破損しているため、「%s」の補完が完了できませんでした。</string>
+    <string name="failer_complement_reason_server_access_error">サーバにアクセスできないため、「%s」の補完が完了できませんでした。</string>
+    <string name="failer_complement_reason_sdcard_write_failed">SDカードへの書き込みに失敗したため、「%s」の補完が完了できませんでした。</string>
+</resources>

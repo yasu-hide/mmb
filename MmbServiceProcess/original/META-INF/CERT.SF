@@ -1,0 +1,37 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: 7pBgl5kZhcmrv3rzO/qgWSM6vbg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: dl8Tv0uFIOJTuW+xEQGlkyc7ids=
+
+Name: res/drawable-xxhdpi-v4/ic_stat_notify_mmantenna_level1.qmg
+SHA1-Digest: ioZdHgZA4sEdf1s5OBuUWGwk+Eo=
+
+Name: res/drawable-xxhdpi-v4/ic_stat_notify_mmaudiobackgroundplay.png
+SHA1-Digest: EKcNYEFAGUnC+xkE9aOqtyKpk/Q=
+
+Name: res/drawable-xxhdpi-v4/ic_stat_notify_mmfcaccumulated.png
+SHA1-Digest: jww0e6ih63FC6px0xt8HZ3k9Nkw=
+
+Name: res/drawable-xxhdpi-v4/ic_stat_notify_mmantenna_level3.qmg
+SHA1-Digest: OnCtcORrHrDnmhrt8ZekdYo39Ow=
+
+Name: assets/mmbPrConfiguration.bin
+SHA1-Digest: 0+YZs/TYERB3HDJP5k4h6ft+OtM=
+
+Name: res/drawable-xxhdpi-v4/ic_stat_notify_mmantenna_level0.qmg
+SHA1-Digest: GOpUfC293hdZvODqSbb2c6MqZMc=
+
+Name: res/drawable-xxhdpi-v4/ic_stat_notify_mmantenna_level4.qmg
+SHA1-Digest: h7nW4p7ByMj68AWo+s2Ew28/cS4=
+
+Name: resources.arsc
+SHA1-Digest: 9DWThou+iRfBIWp9YU1k62EEhCc=
+
+Name: classes.dex
+SHA1-Digest: SA9fwql1lmWT794bk/2JzpVh5zA=
+
+Name: res/drawable-xxhdpi-v4/ic_stat_notify_mmantenna_level2.qmg
+SHA1-Digest: HESDidAk/Jph7Z/RL8NuU7COG/0=
+

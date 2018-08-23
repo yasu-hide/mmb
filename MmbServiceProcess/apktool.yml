@@ -1,0 +1,25 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: MmbServiceProcess.apk
+compressionType: false
+doNotCompress:
+- arsc
+- qmg
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '10'
+  targetSdkVersion: '21'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.3
+versionInfo:
+  versionCode: '9000401'
+  versionName: '09000401'
