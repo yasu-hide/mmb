@@ -3772,7 +3772,7 @@
 .end method
 
 .method public startForeground()V
-    .locals 5
+    .locals 6
 
     .prologue
     .line 1367
@@ -3787,7 +3787,9 @@
 
     const/4 v4, 0x1
 
-    invoke-interface {v1, v2, v3, v4}, Landroid/app/IActivityManager;->setProcessForeground(Landroid/os/IBinder;IZ)V
+    const-string v5, "mmbservice"
+
+    invoke-interface {v1, v2, v3, v4, v5}, Landroid/app/IActivityManager;->setProcessImportant(Landroid/os/IBinder;IZLjava/lang/String;)V
     :try_end_0
     .catch Ljava/lang/Exception; {:try_start_0 .. :try_end_0} :catch_0
 
@@ -3879,7 +3881,7 @@
 .end method
 
 .method public stopForeground()V
-    .locals 5
+    .locals 6
 
     .prologue
     .line 1419
@@ -3894,7 +3896,9 @@
 
     const/4 v4, 0x0
 
-    invoke-interface {v1, v2, v3, v4}, Landroid/app/IActivityManager;->setProcessForeground(Landroid/os/IBinder;IZ)V
+    const-string v5, "mmbservice"
+
+    invoke-interface {v1, v2, v3, v4, v5}, Landroid/app/IActivityManager;->setProcessImportant(Landroid/os/IBinder;IZLjava/lang/String;)V
     :try_end_0
     .catch Ljava/lang/Exception; {:try_start_0 .. :try_end_0} :catch_0
 

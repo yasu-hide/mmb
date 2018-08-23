@@ -2029,7 +2029,7 @@
 .end method
 
 .method public hide()V
-    .locals 6
+    .locals 7
 
     .prologue
     .line 491
@@ -2108,12 +2108,14 @@
 
     const/4 v5, 0x0
 
-    invoke-interface {v2, v3, v4, v5}, Landroid/app/IActivityManager;->setProcessForeground(Landroid/os/IBinder;IZ)V
+    const-string v6, "minimodeservice"
+
+    invoke-interface {v2, v3, v4, v5, v6}, Landroid/app/IActivityManager;->setProcessImportant(Landroid/os/IBinder;IZLjava/lang/String;)V
 
     .line 504
     const-string v2, "MtvMiniModeService"
 
-    const-string v3, "setProcessForeground : false"
+    const-string v3, "setProcessImportant : false"
 
     invoke-static {v2, v3}, Landroid/broadcast/helper/MtvUtilDebug;->Low(Ljava/lang/String;Ljava/lang/String;)V
     :try_end_1
@@ -4026,7 +4028,7 @@
 .end method
 
 .method public show()V
-    .locals 7
+    .locals 8
 
     .prologue
     const/4 v5, 0x0
@@ -4151,12 +4153,14 @@
 
     const/4 v6, 0x1
 
-    invoke-interface {v3, v4, v5, v6}, Landroid/app/IActivityManager;->setProcessForeground(Landroid/os/IBinder;IZ)V
+    const-string v7, "minimodeservice"
+
+    invoke-interface {v3, v4, v5, v6, v7}, Landroid/app/IActivityManager;->setProcessImportant(Landroid/os/IBinder;IZLjava/lang/String;)V
 
     .line 547
     const-string v3, "MtvMiniModeService"
 
-    const-string v4, "setProcessForeground : true"
+    const-string v4, "setProcessImportant : true"
 
     invoke-static {v3, v4}, Landroid/broadcast/helper/MtvUtilDebug;->Low(Ljava/lang/String;Ljava/lang/String;)V
     :try_end_1
