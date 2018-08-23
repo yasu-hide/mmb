@@ -170,27 +170,27 @@
 
 .field private static final METADATA_INITBITMAP_TIME:I = 0x0
 
-.field private static final MMBCACASDRMMW_LIBRARY_NAME:Ljava/lang/String; = "/system/lib/libMmbCaCasDrmMw.so"
+.field private static final MMBCACASDRMMW_LIBRARY_NAME:Ljava/lang/String; = "/system/vendor/lib/libMmbCaCasDrmMw.so"
 
-.field private static final MMBFCBROWMW_LIBRARY_NAME:Ljava/lang/String; = "/system/lib/libMmbFcBrowMw.so"
+.field private static final MMBFCBROWMW_LIBRARY_NAME:Ljava/lang/String; = "/system/vendor/lib/libMmbFcBrowMw.so"
 
-.field private static final MMBFCCTLCLTMW_LIBRARY_NAME:Ljava/lang/String; = "/system/lib/libMmbFcCtlCltMw.so"
+.field private static final MMBFCCTLCLTMW_LIBRARY_NAME:Ljava/lang/String; = "/system/vendor/lib/libMmbFcCtlCltMw.so"
 
-.field private static final MMBFCLICEMW_LIBRARY_NAME:Ljava/lang/String; = "/system/lib/libMmbFcLiceMw.so"
+.field private static final MMBFCLICEMW_LIBRARY_NAME:Ljava/lang/String; = "/system/vendor/lib/libMmbFcLiceMw.so"
 
-.field private static final MMBFCMFESTMW_LIBRARY_NAME:Ljava/lang/String; = "/system/lib/libMmbFcMfestMw.so"
+.field private static final MMBFCMFESTMW_LIBRARY_NAME:Ljava/lang/String; = "/system/vendor/lib/libMmbFcMfestMw.so"
 
-.field private static final MMBPOAESMP_LIBRARY_NAME:Ljava/lang/String; = "/system/lib/libMmbPoAesMp.so"
+.field private static final MMBPOAESMP_LIBRARY_NAME:Ljava/lang/String; = "/system/vendor/lib/libMmbPoAesMp.so"
 
-.field private static final MMBPOHASHMP_LIBRARY_NAME:Ljava/lang/String; = "/system/lib/libMmbPoHashMp.so"
+.field private static final MMBPOHASHMP_LIBRARY_NAME:Ljava/lang/String; = "/system/vendor/lib/libMmbPoHashMp.so"
 
-.field private static final MMBPOINFOMP_LIBRARY_NAME:Ljava/lang/String; = "/system/lib/libMmbPoInfoMp.so"
+.field private static final MMBPOINFOMP_LIBRARY_NAME:Ljava/lang/String; = "/system/vendor/lib/libMmbPoInfoMp.so"
 
-.field private static final MMBPORANDMP_LIBRARY_NAME:Ljava/lang/String; = "/system/lib/libMmbPoRandMp.so"
+.field private static final MMBPORANDMP_LIBRARY_NAME:Ljava/lang/String; = "/system/vendor/lib/libMmbPoRandMp.so"
 
-.field private static final MMBPOSECCLKMP_LIBRARY_NAME:Ljava/lang/String; = "/system/lib/libMmbPoSecClkMp.so"
+.field private static final MMBPOSECCLKMP_LIBRARY_NAME:Ljava/lang/String; = "/system/vendor/lib/libMmbPoSecClkMp.so"
 
-.field private static final MMBPOXMLMP_LIBRARY_NAME:Ljava/lang/String; = "/system/lib/libMmbPoXmlMp.so"
+.field private static final MMBPOXMLMP_LIBRARY_NAME:Ljava/lang/String; = "/system/vendor/lib/libMmbPoXmlMp.so"
 
 .field private static final MMB_SETTINGS_CONTENT_URI:Landroid/net/Uri;
 
