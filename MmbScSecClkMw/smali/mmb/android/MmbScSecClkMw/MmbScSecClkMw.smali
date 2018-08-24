@@ -28,20 +28,20 @@
 .end method
 
 
-# virtual methods
-.method native getSysTime()J
-.end method
-
 .method public getTime()J
-    .locals 2
+    .locals 1
 
     .prologue
+
+    const-wide/16 v0, 0x1
+
+    return-wide v0
+
     .line 36
-    invoke-virtual {p0}, Lmmb/android/MmbScSecClkMw/MmbScSecClkMw;->getSysTime()J
+    invoke-static {}, Ljava/lang/System;->currentTimeMillis()J
 
     move-result-wide v0
 
     .line 37
-    .local v0, "secTime":J
     return-wide v0
 .end method
