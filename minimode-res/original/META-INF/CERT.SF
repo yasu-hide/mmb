@@ -1,0 +1,76 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: t63loqwLzvISeuDrlWzNS+9PO04=
+
+Name: res/anim/mini_window_launch_main.xml
+SHA1-Digest: dvbVuI9awUe3Jel2+TeGYPpHB2k=
+
+Name: res/drawable/window_mode_resize_bottom.png
+SHA1-Digest: ZC1z3MdMwnGlb6N/6TScHrlR+wA=
+
+Name: res/drawable-xxhdpi-v4/window_mode_resize.png
+SHA1-Digest: OKpMMtKwaBrNfF2fR2Sj7Pe1Y70=
+
+Name: res/drawable-xxhdpi-v4/common_popup_bg.9.png
+SHA1-Digest: ybWF+SaGQr+FI5eedGDItUNlsK8=
+
+Name: res/drawable-xxhdpi-v4/window_mode_resize_bottom.png
+SHA1-Digest: cNXPhO8q3vPfVYzEQPlj2KIuE0o=
+
+Name: res/drawable/header_ic_fullscreen.png
+SHA1-Digest: +IyKBmroSIRwPkckB+6+hCq/G3w=
+
+Name: res/anim/mini_window_exit.xml
+SHA1-Digest: FksDvdDa6Io4Ha6w4i6gQEWriHg=
+
+Name: res/layout/overlay_frame_layout.xml
+SHA1-Digest: BHs6WBbqcz3G3y3hJ8/5/y+KHTI=
+
+Name: res/drawable/common_popup_bg_pressed.9.png
+SHA1-Digest: gXe3bTVwKUfdzcZjGpboHjzY2D4=
+
+Name: resources.arsc
+SHA1-Digest: 9odZjlyLx3/haKDagCLfAoXyCa0=
+
+Name: res/drawable-xxhdpi-v4/window_mode_resize_right.png
+SHA1-Digest: wsdIKcbzL5SuJMDIvShk9zQ+88c=
+
+Name: res/drawable/window_mode_resize_right.png
+SHA1-Digest: 5Bd0pMvWiUYi1SU5a4bw0H9Kuy4=
+
+Name: res/anim/mini_window_enter.xml
+SHA1-Digest: HIBrTpF4sP3Ahqp3Noj23qYt2pg=
+
+Name: res/drawable/window_mode_resize_pressed.png
+SHA1-Digest: cvnuU1rHBdsSJrHkk6fAI1hG7wE=
+
+Name: res/layout/main.xml
+SHA1-Digest: BjQwkhjyPk6+a8djpqyRri0NN3Y=
+
+Name: res/drawable/header_bg.9.png
+SHA1-Digest: 8sFz8Ul82VyN4PBNykMk/593j/g=
+
+Name: AndroidManifest.xml
+SHA1-Digest: QcqTulk3t9oqs+F9/aPUVI/lJms=
+
+Name: res/drawable/common_popup_bg.9.png
+SHA1-Digest: +dVCIjBHqG8M40fY4Vlmi2M1Tbc=
+
+Name: res/drawable-xxhdpi-v4/window_popup_bg_pressed.9.png
+SHA1-Digest: SXbQrT4gXEoSOPOLsuvYKalHlag=
+
+Name: res/drawable/window_popup_bg_pressed.9.png
+SHA1-Digest: tv4EqCqk9uZIZ13DWqkXHW5ox1A=
+
+Name: res/drawable/header_ic_minimize.png
+SHA1-Digest: rbRKW3piWkqldXCAGhZ9PwdW58Y=
+
+Name: res/drawable/window_mode_resize.png
+SHA1-Digest: sAa1OQSsxH2uUbYFgDtV9TmQ4Gg=
+
+Name: res/drawable/selector_background.xml
+SHA1-Digest: f86KijkOKxSh60HNyo/ifV3QdrM=
+
+Name: res/drawable/window_mode_resize_button.xml
+SHA1-Digest: wH70PmLqk1ixhVU2k5TCnXr9YHc=
+

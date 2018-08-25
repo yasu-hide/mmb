@@ -1,0 +1,75 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_55 (Oracle Corporation)
+
+Name: res/anim/mini_window_launch_main.xml
+SHA1-Digest: fxu6MF5p26n+b5UBMmDZW9Gwicc=
+
+Name: res/drawable/window_mode_resize_bottom.png
+SHA1-Digest: CRzurKxkEbJuHZvBIkIY2WF40lQ=
+
+Name: res/drawable-xxhdpi-v4/window_mode_resize.png
+SHA1-Digest: YN6wuHmRJCxcNnlNfpFVZYaacoc=
+
+Name: res/drawable-xxhdpi-v4/common_popup_bg.9.png
+SHA1-Digest: D9nnHB00guEW0qm8sH0HtnrXEcg=
+
+Name: res/drawable-xxhdpi-v4/window_mode_resize_bottom.png
+SHA1-Digest: CRzurKxkEbJuHZvBIkIY2WF40lQ=
+
+Name: res/drawable/header_ic_fullscreen.png
+SHA1-Digest: I2TOj5Odt7BT0D1YveqwaIiBRWg=
+
+Name: res/anim/mini_window_exit.xml
+SHA1-Digest: eRNxTRdytdQQ7ganFEq5u+w6g3E=
+
+Name: res/layout/overlay_frame_layout.xml
+SHA1-Digest: p4KJoqh8MbLCcQQAQlBUZfdV6/s=
+
+Name: res/drawable/common_popup_bg_pressed.9.png
+SHA1-Digest: IGYt73sXQVlgXm2/iiJWACcyeVk=
+
+Name: resources.arsc
+SHA1-Digest: zytEtG7kyz2JBCxRlDXv8vpufS8=
+
+Name: res/drawable/window_mode_resize_right.png
+SHA1-Digest: y3hqtjZOfcOlqqJkznycC5Vta70=
+
+Name: res/anim/mini_window_enter.xml
+SHA1-Digest: 7VkfsK69gugFGmUJvcS/0bGOwPQ=
+
+Name: res/drawable-xxhdpi-v4/window_mode_resize_right.png
+SHA1-Digest: y3hqtjZOfcOlqqJkznycC5Vta70=
+
+Name: res/drawable/window_mode_resize_pressed.png
+SHA1-Digest: x7mj9ant5qYu4RHiWWOPZWvG5WM=
+
+Name: res/layout/main.xml
+SHA1-Digest: mu3klUo1IKMqso3++YYcioi7Ms8=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 0R5IeDRn39oGubnFo6GIlkOL90M=
+
+Name: res/drawable/header_bg.9.png
+SHA1-Digest: JPytTkYASqP9y4JZIlQoYl1oZfU=
+
+Name: res/drawable/window_popup_bg_pressed.9.png
+SHA1-Digest: VGOEUIu2TTvfui26H5NES39Glzw=
+
+Name: res/drawable-xxhdpi-v4/window_popup_bg_pressed.9.png
+SHA1-Digest: VGOEUIu2TTvfui26H5NES39Glzw=
+
+Name: res/drawable/common_popup_bg.9.png
+SHA1-Digest: D9nnHB00guEW0qm8sH0HtnrXEcg=
+
+Name: res/drawable/header_ic_minimize.png
+SHA1-Digest: XfJoO30/zNIpxySCeAO1EVAaRbo=
+
+Name: res/drawable/window_mode_resize.png
+SHA1-Digest: YN6wuHmRJCxcNnlNfpFVZYaacoc=
+
+Name: res/drawable/selector_background.xml
+SHA1-Digest: HV5T4hpOkosODUI5tZOlDy8VU0g=
+
+Name: res/drawable/window_mode_resize_button.xml
+SHA1-Digest: SiAQgRWfEjFcsTQGvAe446ffvpA=
+
